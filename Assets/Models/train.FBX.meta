@@ -1,0 +1,4685 @@
+fileFormatVersion: 2
+guid: ae808e23a8b002243b86fec50ee8a904
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bash kolonas002
+    100002: bash kolonas003
+    100004: bash kolonas004
+    100006: bash kolonas005
+    100008: bash kolonas006
+    100010: bash kolonas007
+    100012: bash kolonas008
+    100014: bash kolonas009
+    100016: bash kolonas010
+    100018: bash kolonas011
+    100020: basi kareklas010
+    100022: basi kareklas011
+    100024: basi kareklas012
+    100026: basi kareklas013
+    100028: basi kareklas014
+    100030: basi kareklas015
+    100032: basi kareklas016
+    100034: basi kareklas017
+    100036: basi kareklas018
+    100038: basi kareklas019
+    100040: basi kareklas020
+    100042: basi kareklas021
+    100044: basi kareklas022
+    100046: basi kareklas023
+    100048: basi kareklas024
+    100050: basi kareklas025
+    100052: basi kareklas026
+    100054: basi kareklas027
+    100056: basi kareklas028
+    100058: basi kareklas029
+    100060: basi kareklas030
+    100062: basi kareklas031
+    100064: basi kareklas032
+    100066: basi kareklas033
+    100068: basi kareklas034
+    100070: basi kareklas035
+    100072: basi kareklas036
+    100074: basi kareklas037
+    100076: basi kareklas038
+    100078: basi kareklas039
+    100080: basi kareklas040
+    100082: basi kareklas041
+    100084: basi kareklas042
+    100086: basi kareklas043
+    100088: basi kareklas044
+    100090: basi kareklas045
+    100092: basi kareklas046
+    100094: basi kareklas047
+    100096: basi kareklas048
+    100098: basi kareklas049
+    100100: basi kareklas050
+    100102: basi kareklas051
+    100104: basi kareklas052
+    100106: basi kareklas053
+    100108: basi kareklas054
+    100110: basi kareklas055
+    100112: basi kareklas056
+    100114: basi kareklas057
+    100116: basi kareklas058
+    100118: basi kareklas059
+    100120: basi kolonas006
+    100122: basi kolonas007
+    100124: basi kolonas008
+    100126: basi kolonas009
+    100128: basi kolonas010
+    100130: basi kolonas011
+    100132: basi kolonas012
+    100134: basi kolonas013
+    100136: basi kolonas014
+    100138: basi kolonas015
+    100140: basi kolonas016
+    100142: basi kolonas017
+    100144: basi kolonas018
+    100146: basi kolonas019
+    100148: basi kolonas020
+    100150: basi kolonas021
+    100152: basi kolonas022
+    100154: basi kolonas023
+    100156: basi kolonas024
+    100158: basi kolonas025
+    100160: basi kolonas026
+    100162: basi kolonas027
+    100164: basi kolonas028
+    100166: basi kolonas029
+    100168: basi kolonas030
+    100170: basi kolonas031
+    100172: basi kolonas032
+    100174: basi kolonas033
+    100176: basi kolonas034
+    100178: basi kolonas035
+    100180: botton004
+    100182: botton005
+    100184: botton006
+    100186: botton007
+    100188: botton008
+    100190: botton009
+    100192: botton010
+    100194: botton011
+    100196: botton012
+    100198: botton013
+    100200: botton014
+    100202: botton015
+    100204: botton016
+    100206: botton017
+    100208: botton018
+    100210: botton019
+    100212: botton020
+    100214: botton021
+    100216: botton022
+    100218: botton023
+    100220: Box001
+    100222: Box002
+    100224: Box003
+    100226: Box004
+    100228: button ring004
+    100230: button ring005
+    100232: button ring006
+    100234: button ring007
+    100236: button ring008
+    100238: button ring009
+    100240: button ring010
+    100242: button ring011
+    100244: button ring012
+    100246: button ring013
+    100248: button ring014
+    100250: button ring015
+    100252: button ring016
+    100254: button ring017
+    100256: button ring018
+    100258: button ring019
+    100260: button ring020
+    100262: button ring021
+    100264: button ring022
+    100266: button ring023
+    100268: Camera001
+    100270: Camera001.Target
+    100272: ChamferBox005
+    100274: ChamferBox006
+    100276: ChamferBox007
+    100278: ChamferBox008
+    100280: ChamferBox009
+    100282: ChamferBox010
+    100284: ChamferBox011
+    100286: ChamferBox012
+    100288: ChamferBox013
+    100290: ChamferBox014
+    100292: ChamferBox015
+    100294: ChamferBox016
+    100296: ChamferBox017
+    100298: ChamferBox018
+    100300: ChamferBox019
+    100302: ChamferBox020
+    100304: ChamferBox021
+    100306: ChamferBox022
+    100308: ChamferBox023
+    100310: ChamferBox024
+    100312: ChamferBox025
+    100314: ChamferBox026
+    100316: Cylinder004
+    100318: Cylinder005
+    100320: Cylinder006
+    100322: Cylinder007
+    100324: Cylinder008
+    100326: Cylinder009
+    100328: Cylinder010
+    100330: Cylinder011
+    100332: Cylinder012
+    100334: Cylinder013
+    100336: Cylinder014
+    100338: diakoptis orofis004
+    100340: diakoptis orofis005
+    100342: diakoptis orofis006
+    100344: diakoptis orofis007
+    100346: diakoptis orofis010
+    100348: diakoptis orofis011
+    100350: diakoptis orofis012
+    100352: diakoptis orofis013
+    100354: diakoptis orofis014
+    100356: diakoptis orofis015
+    100358: diakoptis orofis016
+    100360: diakoptis orofis017
+    100362: diakoptis orofis018
+    100364: diakoptis orofis019
+    100366: diakoptis orofis020
+    100368: diakoptis orofis021
+    100370: diakoptis orofis022
+    100372: diakoptis orofis023
+    100374: diakoptis orofis024
+    100376: diakoptis orofis025
+    100378: Dummy001
+    100380: Dummy002
+    100382: Dummy003
+    100384: Dummy004
+    100386: Group009
+    100388: Group010
+    100390: Group015
+    100392: Group016
+    100394: Group018
+    100396: Group019
+    100398: Group021
+    100400: Group022
+    100402: Group024
+    100404: Group025
+    100406: Group026
+    100408: Group027
+    100410: Group028
+    100412: Group029
+    100414: Group030
+    100416: Group031
+    100418: Group032
+    100420: Group033
+    100422: Group034
+    100424: Group035
+    100426: Group036
+    100428: Group037
+    100430: Group038
+    100432: Group039
+    100434: Group040
+    100436: Group041
+    100438: Group042
+    100440: Group043
+    100442: Group044
+    100444: Group045
+    100446: Group046
+    100448: Group047
+    100450: Group048
+    100452: Group049
+    100454: Group050
+    100456: ixio
+    100458: ixio001
+    100460: ixio002
+    100462: ixio003
+    100464: ixio004
+    100466: ixio005
+    100468: kara para8iru002
+    100470: kara para8iru003
+    100472: kara para8iru004
+    100474: kara para8iru005
+    100476: kara para8iru006
+    100478: kara para8iru007
+    100480: kara para8iru008
+    100482: kara para8iru009
+    100484: kara para8iru010
+    100486: kara para8iru011
+    100488: karekla010
+    100490: karekla011
+    100492: karekla012
+    100494: karekla013
+    100496: karekla014
+    100498: karekla015
+    100500: karekla016
+    100502: karekla017
+    100504: karekla018
+    100506: karekla019
+    100508: karekla020
+    100510: karekla021
+    100512: karekla022
+    100514: karekla023
+    100516: karekla024
+    100518: karekla025
+    100520: karekla026
+    100522: karekla027
+    100524: karekla028
+    100526: karekla029
+    100528: karekla030
+    100530: karekla031
+    100532: karekla032
+    100534: karekla033
+    100536: karekla034
+    100538: karekla035
+    100540: karekla036
+    100542: karekla037
+    100544: karekla038
+    100546: karekla039
+    100548: karekla040
+    100550: karekla041
+    100552: karekla042
+    100554: karekla043
+    100556: karekla044
+    100558: karekla045
+    100560: karekla046
+    100562: karekla047
+    100564: karekla048
+    100566: karekla049
+    100568: karekla050
+    100570: karekla051
+    100572: karekla052
+    100574: karekla053
+    100576: karekla054
+    100578: karekla055
+    100580: karekla056
+    100582: karekla057
+    100584: karekla058
+    100586: karekla059
+    100588: kasa parauiru003
+    100590: kasa parauiru004
+    100592: kasa parauiru005
+    100594: kasa parauiru006
+    100596: kasa parauiru007
+    100598: kasa parauiru008
+    100600: kasa parauiru009
+    100602: kasa parauiru010
+    100604: kasa parauiru011
+    100606: kasa parauiru012
+    100608: kasa parauiru013
+    100610: kasa parauiru014
+    100612: kasa parauiru015
+    100614: kasa parauiru016
+    100616: kasa parauiru017
+    100618: kasa parauiru018
+    100620: kasa parauiru019
+    100622: kasa parauiru020
+    100624: kasa parauiru021
+    100626: kasa parauiru022
+    100628: kolona portas002
+    100630: kolona portas003
+    100632: kolona portas004
+    100634: kolona portas005
+    100636: kolona portas006
+    100638: kolona portas007
+    100640: kolona portas008
+    100642: kolona portas009
+    100644: kolona portas010
+    100646: kolona portas011
+    100648: kolona004
+    100650: kolona007
+    100652: kolona008
+    100654: kolona009
+    100656: kolona010
+    100658: kolona012
+    100660: kolona013
+    100662: kolona014
+    100664: kolona015
+    100666: kolona016
+    100668: kolona017
+    100670: korodni xerouliou
+    100672: korodni xerouliou001
+    100674: korodni xerouliou002
+    100676: korodni xerouliou003
+    100678: korodni xerouliou004
+    100680: korodni xerouliou005
+    100682: korodni xerouliou006
+    100684: korodni xerouliou007
+    100686: korodni xerouliou008
+    100688: korodni xerouliou009
+    100690: korodni xerouliou010
+    100692: korodni xerouliou011
+    100694: korodni xerouliou012
+    100696: korodni xerouliou013
+    100698: korodni xerouliou014
+    100700: korodni xerouliou015
+    100702: korodni xerouliou016
+    100704: korodni xerouliou017
+    100706: korodni xerouliou018
+    100708: koudouni004
+    100710: koudouni005
+    100712: koudouni006
+    100714: koudouni007
+    100716: koudouni008
+    100718: koudouni009
+    100720: koudouni010
+    100722: koudouni011
+    100724: koudouni012
+    100726: koudouni013
+    100728: koudouni014
+    100730: koudouni015
+    100732: koudouni016
+    100734: koudouni017
+    100736: koudouni018
+    100738: koudouni019
+    100740: koudouni020
+    100742: koudouni021
+    100744: koudouni022
+    100746: koudouni023
+    100748: lampa
+    100750: 'lampa '
+    100752: lampa 001
+    100754: lampa 002
+    100756: lampa 003
+    100758: lampa 004
+    100760: lampa 005
+    100762: lampa 006
+    100764: lampa 007
+    100766: lampa 008
+    100768: lampa 009
+    100770: lampa 010
+    100772: lampa 011
+    100774: lampa 012
+    100776: lampa 013
+    100778: lampa 014
+    100780: lampa 015
+    100782: lampa 016
+    100784: lampa 017
+    100786: lampa 018
+    100788: lampa 019
+    100790: lampa 020
+    100792: lampa 021
+    100794: lampa 022
+    100796: lampa 023
+    100798: lampa001
+    100800: lampa002
+    100802: lampa003
+    100804: lampa004
+    100806: lampa005
+    100808: lampa006
+    100810: lampa007
+    100812: lampa008
+    100814: lampa009
+    100816: lampa010
+    100818: lampa011
+    100820: lastixo portas004
+    100822: lastixo portas005
+    100824: lastixo portas006
+    100826: lastixo portas007
+    100828: lastixo portas008
+    100830: lastixo portas009
+    100832: lastixo portas010
+    100834: lastixo portas011
+    100836: lastixo portas012
+    100838: lastixo portas013
+    100840: lastixo portas014
+    100842: lastixo portas015
+    100844: lastixo portas016
+    100846: lastixo portas017
+    100848: lastixo portas018
+    100850: lastixo portas019
+    100852: lastixo portas020
+    100854: lastixo portas021
+    100856: lastixo portas022
+    100858: lastixo portas023
+    100860: Object015
+    100862: Object019
+    100864: Object020
+    100866: Object021
+    100868: Object022
+    100870: Object023
+    100872: Object024
+    100874: Object025
+    100876: Object026
+    100878: Object027
+    100880: Object028
+    100882: Object029
+    100884: Object030
+    100886: Object031
+    100888: Object032
+    100890: Object033
+    100892: Object034
+    100894: Object035
+    100896: Object036
+    100898: Object037
+    100900: Object038
+    100902: Object039
+    100904: Object040
+    100906: Object041
+    100908: Object042
+    100910: Object043
+    100912: Object044
+    100914: Object045
+    100916: Object046
+    100918: Object047
+    100920: Object048
+    100922: Object049
+    100924: Object050
+    100926: Object051
+    100928: Object052
+    100930: Object053
+    100932: Object054
+    100934: Object055
+    100936: Object056
+    100938: Object057
+    100940: Object058
+    100942: Object059
+    100944: Object060
+    100946: Object061
+    100948: Object062
+    100950: Object063
+    100952: Object064
+    100954: Object065
+    100956: Object066
+    100958: Object067
+    100960: Object068
+    100962: Object069
+    100964: Object070
+    100966: Object071
+    100968: orofi
+    100970: para8iro diafimisis004
+    100972: para8iro diafimisis005
+    100974: para8iro diafimisis006
+    100976: para8iro diafimisis007
+    100978: para8iro diafimisis008
+    100980: para8iro diafimisis009
+    100982: para8iro diafimisis010
+    100984: para8iro diafimisis011
+    100986: para8iro diafimisis012
+    100988: para8iro diafimisis013
+    100990: para8iro diafimisis014
+    100992: para8iro diafimisis015
+    100994: para8iro diafimisis016
+    100996: para8iro diafimisis017
+    100998: para8iro diafimisis018
+    101000: para8iro diafimisis019
+    101002: para8iro diafimisis020
+    101004: para8iro diafimisis021
+    101006: para8iro diafimisis022
+    101008: para8iro diafimisis023
+    101010: patos kareklas010
+    101012: patos kareklas011
+    101014: patos kareklas012
+    101016: patos kareklas013
+    101018: patos kareklas014
+    101020: patos kareklas015
+    101022: patos kareklas016
+    101024: patos kareklas017
+    101026: patos kareklas018
+    101028: patos kareklas019
+    101030: patos kareklas020
+    101032: patos kareklas021
+    101034: patos kareklas022
+    101036: patos kareklas023
+    101038: patos kareklas024
+    101040: patos kareklas025
+    101042: patos kareklas026
+    101044: patos kareklas027
+    101046: patos kareklas028
+    101048: patos kareklas029
+    101050: patos kareklas030
+    101052: patos kareklas031
+    101054: patos kareklas032
+    101056: patos kareklas033
+    101058: patos kareklas034
+    101060: patos kareklas035
+    101062: patos kareklas036
+    101064: patos kareklas037
+    101066: patos kareklas038
+    101068: patos kareklas039
+    101070: patos kareklas040
+    101072: patos kareklas041
+    101074: patos kareklas042
+    101076: patos kareklas043
+    101078: patos kareklas044
+    101080: patos kareklas045
+    101082: patos kareklas046
+    101084: patos kareklas047
+    101086: patos kareklas048
+    101088: patos kareklas049
+    101090: patos kareklas050
+    101092: patos kareklas051
+    101094: patos kareklas052
+    101096: patos kareklas053
+    101098: patos kareklas054
+    101100: patos kareklas055
+    101102: patos kareklas056
+    101104: patos kareklas057
+    101106: patos kareklas058
+    101108: patos kareklas059
+    101110: Plane003
+    101112: Plane016
+    101114: Plane017
+    101116: Plane018
+    101118: Plane019
+    101120: Plane020
+    101122: Plane021
+    101124: Plane022
+    101126: Plane023
+    101128: Plane024
+    101130: Plane025
+    101132: Plane026
+    101134: Plane027
+    101136: porta004
+    101138: porta005
+    101140: porta006
+    101142: porta007
+    101144: porta008
+    101146: porta009
+    101148: porta010
+    101150: porta011
+    101152: porta012
+    101154: porta013
+    101156: porta014
+    101158: porta015
+    101160: porta016
+    101162: porta017
+    101164: porta018
+    101166: porta019
+    101168: porta020
+    101170: porta021
+    101172: porta022
+    101174: porta023
+    101176: Rectangle008
+    101178: Rectangle009
+    101180: Rectangle010
+    101182: Rectangle011
+    101184: Rectangle012
+    101186: Rectangle013
+    101188: Rectangle014
+    101190: Rectangle015
+    101192: Rectangle016
+    101194: Rectangle017
+    101196: Rectangle018
+    101198: Rectangle019
+    101200: Rectangle020
+    101202: Rectangle021
+    101204: Rectangle022
+    101206: Rectangle023
+    101208: Rectangle024
+    101210: Rectangle025
+    101212: Rectangle026
+    101214: Rectangle027
+    101216: rolo diakoptis para8iru003
+    101218: rolo diakoptis para8iru004
+    101220: rolo diakoptis para8iru005
+    101222: rolo diakoptis para8iru006
+    101224: rolo diakoptis para8iru007
+    101226: rolo diakoptis para8iru008
+    101228: rolo diakoptis para8iru009
+    101230: rolo diakoptis para8iru010
+    101232: rolo diakoptis para8iru011
+    101234: rolo diakoptis para8iru012
+    101236: rolo diakoptis para8iru013
+    101238: rolo diakoptis para8iru014
+    101240: rolo diakoptis para8iru015
+    101242: rolo diakoptis para8iru016
+    101244: rolo diakoptis para8iru017
+    101246: rolo diakoptis para8iru018
+    101248: rolo diakoptis para8iru019
+    101250: rolo diakoptis para8iru020
+    101252: rolo diakoptis para8iru021
+    101254: rolo diakoptis para8iru022
+    101256: Sphere007
+    101258: Sphere008
+    101260: Sphere009
+    101262: Sphere010
+    101264: Sphere011
+    101266: Sphere012
+    101268: Sphere013
+    101270: Sphere014
+    101272: Sphere015
+    101274: Sphere016
+    101276: Sphere017
+    101278: Sphere018
+    101280: Sphere019
+    101282: Sphere020
+    101284: Sphere021
+    101286: Sphere022
+    101288: Sphere023
+    101290: Sphere024
+    101292: Sphere025
+    101294: Sphere026
+    101296: Sphere027
+    101298: Sphere028
+    101300: Sphere029
+    101302: Sphere030
+    101304: Sphere031
+    101306: Sphere032
+    101308: Sphere033
+    101310: Sphere034
+    101312: Sphere035
+    101314: Sphere036
+    101316: Sphere037
+    101318: steka portas007
+    101320: steka portas008
+    101322: steka portas009
+    101324: steka portas010
+    101326: steka portas011
+    101328: steka portas012
+    101330: steka portas013
+    101332: steka portas014
+    101334: steka portas015
+    101336: steka portas016
+    101338: steka portas017
+    101340: steka portas018
+    101342: steka portas019
+    101344: steka portas020
+    101346: steka portas021
+    101348: steka portas022
+    101350: steka portas023
+    101352: steka portas024
+    101354: steka portas025
+    101356: steka portas026
+    101358: steka portas027
+    101360: steka portas028
+    101362: steka portas029
+    101364: steka portas030
+    101366: steka portas031
+    101368: steka portas032
+    101370: steka portas033
+    101372: steka portas034
+    101374: steka portas035
+    101376: steka portas036
+    101378: tamplo004
+    101380: tamplo005
+    101382: tamplo006
+    101384: tamplo007
+    101386: tamplo008
+    101388: tamplo010
+    101390: tamplo011
+    101392: tamplo012
+    101394: tamplo013
+    101396: tamplo014
+    101398: tamplo015
+    101400: tamplo016
+    101402: tamplo017
+    101404: tamplo018
+    101406: tamplo019
+    101408: tamplo020
+    101410: tamplo021
+    101412: tamplo022
+    101414: tamplo023
+    101416: tamplo024
+    101418: tavani tap
+    101420: tavani tap001
+    101422: tavani tap002
+    101424: tavani tap003
+    101426: tavani tap004
+    101428: tavani tap005
+    101430: tazimi002
+    101432: tazimi003
+    101434: tazimi004
+    101436: tazimi005
+    101438: tazimi006
+    101440: tazimi007
+    101442: tazimi008
+    101444: tazimi009
+    101446: tazimi010
+    101448: tazimi011
+    101450: //RootNode
+    101452: tzami diafimisis004
+    101454: tzami diafimisis005
+    101456: tzami diafimisis006
+    101458: tzami diafimisis007
+    101460: tzami diafimisis008
+    101462: tzami diafimisis009
+    101464: tzami diafimisis010
+    101466: tzami diafimisis011
+    101468: tzami diafimisis012
+    101470: tzami diafimisis013
+    101472: tzami diafimisis014
+    101474: tzami diafimisis015
+    101476: tzami diafimisis016
+    101478: tzami diafimisis017
+    101480: tzami diafimisis018
+    101482: tzami diafimisis019
+    101484: tzami diafimisis020
+    101486: tzami diafimisis021
+    101488: tzami diafimisis022
+    101490: tzami diafimisis023
+    101492: tzami portas lastixo004
+    101494: tzami portas lastixo005
+    101496: tzami portas lastixo006
+    101498: tzami portas lastixo007
+    101500: tzami portas lastixo008
+    101502: tzami portas lastixo009
+    101504: tzami portas lastixo010
+    101506: tzami portas lastixo011
+    101508: tzami portas lastixo012
+    101510: tzami portas lastixo013
+    101512: tzami portas lastixo014
+    101514: tzami portas lastixo015
+    101516: tzami portas lastixo016
+    101518: tzami portas lastixo017
+    101520: tzami portas lastixo018
+    101522: tzami portas lastixo019
+    101524: tzami portas lastixo020
+    101526: tzami portas lastixo021
+    101528: tzami portas lastixo022
+    101530: tzami portas lastixo023
+    101532: tzami portas004
+    101534: tzami portas005
+    101536: tzami portas006
+    101538: tzami portas007
+    101540: tzami portas008
+    101542: tzami portas009
+    101544: tzami portas010
+    101546: tzami portas011
+    101548: tzami portas012
+    101550: tzami portas013
+    101552: tzami portas014
+    101554: tzami portas015
+    101556: tzami portas016
+    101558: tzami portas017
+    101560: tzami portas018
+    101562: tzami portas019
+    101564: tzami portas020
+    101566: tzami portas021
+    101568: tzami portas022
+    101570: tzami portas023
+    101572: tzami tamplo004
+    101574: tzami tamplo005
+    101576: tzami tamplo006
+    101578: tzami tamplo007
+    101580: tzami tamplo008
+    101582: tzami tamplo010
+    101584: tzami tamplo011
+    101586: tzami tamplo012
+    101588: tzami tamplo013
+    101590: tzami tamplo014
+    101592: tzami tamplo015
+    101594: tzami tamplo016
+    101596: tzami tamplo017
+    101598: tzami tamplo018
+    101600: tzami tamplo019
+    101602: tzami tamplo020
+    101604: tzami tamplo021
+    101606: tzami tamplo022
+    101608: tzami tamplo023
+    101610: tzami tamplo024
+    101612: tzami002
+    101614: tzami003
+    101616: tzami004
+    101618: tzami005
+    101620: tzami006
+    101622: tzami007
+    101624: tzami008
+    101626: tzami009
+    101628: tzami010
+    101630: tzami011
+    101632: vida xerouliou
+    101634: vida xerouliou001
+    101636: vida xerouliou002
+    101638: vida xerouliou003
+    101640: vida xerouliou004
+    101642: vida xerouliou005
+    101644: vida xerouliou006
+    101646: vida xerouliou007
+    101648: vida xerouliou008
+    101650: vida xerouliou009
+    101652: vida xerouliou010
+    101654: vida xerouliou011
+    101656: vida xerouliou012
+    101658: vida xerouliou013
+    101660: vida xerouliou014
+    101662: vida xerouliou015
+    101664: vida xerouliou016
+    101666: vida xerouliou017
+    101668: vida xerouliou018
+    101670: vides004
+    101672: vides005
+    101674: vides006
+    101676: vides007
+    101678: vides008
+    101680: vides009
+    101682: vides010
+    101684: vides011
+    101686: vides012
+    101688: vides013
+    101690: vides014
+    101692: vides015
+    101694: vides016
+    101696: vides017
+    101698: vides018
+    101700: vides019
+    101702: vides020
+    101704: vides021
+    101706: vides022
+    101708: vides023
+    101710: VRayLight002
+    101712: VRayLight003
+    101714: VRayLight004
+    101716: VRayLight005
+    101718: VRayLight006
+    101720: VRayLight007
+    101722: VRayLight008
+    101724: VRayLight009
+    101726: VRayLight010
+    101728: VRayLight011
+    101730: VRayLight012
+    101732: VRayLight013
+    101734: VRayLight014
+    101736: VRayLight015
+    101738: VRayLight016
+    101740: VRayLight017
+    101742: VRayLight018
+    101744: VRayLight019
+    101746: VRayLight020
+    101748: VRayLight021
+    101750: VRayLight022
+    101752: VRayLight023
+    101754: VRayLight024
+    101756: VRayLight025
+    101758: VRayLight026
+    101760: VRayLight027
+    101762: VRayLight028
+    101764: VRayLight029
+    101766: VRayLight030
+    101768: VRayLight031
+    101770: VRayLight032
+    101772: VRayLight033
+    101774: VRayLight034
+    101776: VRayLight035
+    101778: VRayLight036
+    101780: VRayLight037
+    101782: VRayLight038
+    101784: VRayLight039
+    101786: VRayLight040
+    101788: xarti diafimis004
+    101790: xarti diafimis005
+    101792: xarti diafimis006
+    101794: xarti diafimis007
+    101796: xarti diafimis008
+    101798: xarti diafimis009
+    101800: xarti diafimis010
+    101802: xarti diafimis011
+    101804: xarti diafimis012
+    101806: xarti diafimis013
+    101808: xarti diafimis014
+    101810: xarti diafimis015
+    101812: xarti diafimis016
+    101814: xarti diafimis017
+    101816: xarti diafimis018
+    101818: xarti diafimis019
+    101820: xarti diafimis020
+    101822: xarti diafimis021
+    101824: xarti diafimis022
+    101826: xarti diafimis023
+    101828: xarti tamplou004
+    101830: xarti tamplou005
+    101832: xarti tamplou006
+    101834: xarti tamplou007
+    101836: xarti tamplou008
+    101838: xarti tamplou010
+    101840: xarti tamplou011
+    101842: xarti tamplou012
+    101844: xarti tamplou013
+    101846: xarti tamplou014
+    101848: xarti tamplou015
+    101850: xarti tamplou016
+    101852: xarti tamplou017
+    101854: xarti tamplou018
+    101856: xarti tamplou019
+    101858: xarti tamplou020
+    101860: xarti tamplou021
+    101862: xarti tamplou022
+    101864: xarti tamplou023
+    101866: xarti tamplou024
+    101868: xerouli
+    101870: xerouli001
+    101872: xerouli002
+    101874: xerouli003
+    101876: xerouli004
+    101878: xerouli005
+    101880: xerouli006
+    101882: xerouli007
+    101884: xerouli008
+    101886: xerouli009
+    101888: xerouli010
+    101890: xerouli011
+    101892: xerouli012
+    101894: xerouli013
+    101896: xerouli014
+    101898: xerouli015
+    101900: xerouli016
+    101902: xerouli017
+    101904: xerouli018
+    101906: xoristiko lampas
+    101908: xoristiko lampas001
+    101910: xoristiko lampas002
+    101912: xoristiko lampas003
+    101914: xoristiko lampas004
+    101916: xoristiko lampas005
+    101918: xoristiko lampas006
+    101920: xoristiko lampas007
+    101922: xoristiko lampas008
+    101924: xoristiko lampas009
+    101926: xoristiko lampas010
+    101928: xoristiko lampas011
+    101930: xoristiko lampas012
+    101932: xoristiko lampas013
+    101934: xoristiko lampas014
+    101936: xoristiko lampas015
+    101938: xoristiko lampas016
+    101940: xoristiko lampas017
+    101942: xoristiko lampas018
+    101944: xoristiko lampas019
+    101946: xoristiko lampas020
+    101948: xoristiko lampas021
+    101950: xoristiko lampas022
+    101952: xoristiko lampas023
+    101954: xoristiko lampas024
+    101956: xoristiko lampas025
+    101958: xoristiko lampas026
+    101960: xoristiko lampas027
+    101962: xoristiko lampas028
+    101964: xoristiko lampas029
+    101966: xoristiko lampas030
+    101968: xoristiko lampas031
+    101970: xoristiko lampas032
+    101972: xoristiko lampas033
+    101974: xoristiko lampas034
+    101976: xoristiko lampas035
+    400000: bash kolonas002
+    400002: bash kolonas003
+    400004: bash kolonas004
+    400006: bash kolonas005
+    400008: bash kolonas006
+    400010: bash kolonas007
+    400012: bash kolonas008
+    400014: bash kolonas009
+    400016: bash kolonas010
+    400018: bash kolonas011
+    400020: basi kareklas010
+    400022: basi kareklas011
+    400024: basi kareklas012
+    400026: basi kareklas013
+    400028: basi kareklas014
+    400030: basi kareklas015
+    400032: basi kareklas016
+    400034: basi kareklas017
+    400036: basi kareklas018
+    400038: basi kareklas019
+    400040: basi kareklas020
+    400042: basi kareklas021
+    400044: basi kareklas022
+    400046: basi kareklas023
+    400048: basi kareklas024
+    400050: basi kareklas025
+    400052: basi kareklas026
+    400054: basi kareklas027
+    400056: basi kareklas028
+    400058: basi kareklas029
+    400060: basi kareklas030
+    400062: basi kareklas031
+    400064: basi kareklas032
+    400066: basi kareklas033
+    400068: basi kareklas034
+    400070: basi kareklas035
+    400072: basi kareklas036
+    400074: basi kareklas037
+    400076: basi kareklas038
+    400078: basi kareklas039
+    400080: basi kareklas040
+    400082: basi kareklas041
+    400084: basi kareklas042
+    400086: basi kareklas043
+    400088: basi kareklas044
+    400090: basi kareklas045
+    400092: basi kareklas046
+    400094: basi kareklas047
+    400096: basi kareklas048
+    400098: basi kareklas049
+    400100: basi kareklas050
+    400102: basi kareklas051
+    400104: basi kareklas052
+    400106: basi kareklas053
+    400108: basi kareklas054
+    400110: basi kareklas055
+    400112: basi kareklas056
+    400114: basi kareklas057
+    400116: basi kareklas058
+    400118: basi kareklas059
+    400120: basi kolonas006
+    400122: basi kolonas007
+    400124: basi kolonas008
+    400126: basi kolonas009
+    400128: basi kolonas010
+    400130: basi kolonas011
+    400132: basi kolonas012
+    400134: basi kolonas013
+    400136: basi kolonas014
+    400138: basi kolonas015
+    400140: basi kolonas016
+    400142: basi kolonas017
+    400144: basi kolonas018
+    400146: basi kolonas019
+    400148: basi kolonas020
+    400150: basi kolonas021
+    400152: basi kolonas022
+    400154: basi kolonas023
+    400156: basi kolonas024
+    400158: basi kolonas025
+    400160: basi kolonas026
+    400162: basi kolonas027
+    400164: basi kolonas028
+    400166: basi kolonas029
+    400168: basi kolonas030
+    400170: basi kolonas031
+    400172: basi kolonas032
+    400174: basi kolonas033
+    400176: basi kolonas034
+    400178: basi kolonas035
+    400180: botton004
+    400182: botton005
+    400184: botton006
+    400186: botton007
+    400188: botton008
+    400190: botton009
+    400192: botton010
+    400194: botton011
+    400196: botton012
+    400198: botton013
+    400200: botton014
+    400202: botton015
+    400204: botton016
+    400206: botton017
+    400208: botton018
+    400210: botton019
+    400212: botton020
+    400214: botton021
+    400216: botton022
+    400218: botton023
+    400220: Box001
+    400222: Box002
+    400224: Box003
+    400226: Box004
+    400228: button ring004
+    400230: button ring005
+    400232: button ring006
+    400234: button ring007
+    400236: button ring008
+    400238: button ring009
+    400240: button ring010
+    400242: button ring011
+    400244: button ring012
+    400246: button ring013
+    400248: button ring014
+    400250: button ring015
+    400252: button ring016
+    400254: button ring017
+    400256: button ring018
+    400258: button ring019
+    400260: button ring020
+    400262: button ring021
+    400264: button ring022
+    400266: button ring023
+    400268: Camera001
+    400270: Camera001.Target
+    400272: ChamferBox005
+    400274: ChamferBox006
+    400276: ChamferBox007
+    400278: ChamferBox008
+    400280: ChamferBox009
+    400282: ChamferBox010
+    400284: ChamferBox011
+    400286: ChamferBox012
+    400288: ChamferBox013
+    400290: ChamferBox014
+    400292: ChamferBox015
+    400294: ChamferBox016
+    400296: ChamferBox017
+    400298: ChamferBox018
+    400300: ChamferBox019
+    400302: ChamferBox020
+    400304: ChamferBox021
+    400306: ChamferBox022
+    400308: ChamferBox023
+    400310: ChamferBox024
+    400312: ChamferBox025
+    400314: ChamferBox026
+    400316: Cylinder004
+    400318: Cylinder005
+    400320: Cylinder006
+    400322: Cylinder007
+    400324: Cylinder008
+    400326: Cylinder009
+    400328: Cylinder010
+    400330: Cylinder011
+    400332: Cylinder012
+    400334: Cylinder013
+    400336: Cylinder014
+    400338: diakoptis orofis004
+    400340: diakoptis orofis005
+    400342: diakoptis orofis006
+    400344: diakoptis orofis007
+    400346: diakoptis orofis010
+    400348: diakoptis orofis011
+    400350: diakoptis orofis012
+    400352: diakoptis orofis013
+    400354: diakoptis orofis014
+    400356: diakoptis orofis015
+    400358: diakoptis orofis016
+    400360: diakoptis orofis017
+    400362: diakoptis orofis018
+    400364: diakoptis orofis019
+    400366: diakoptis orofis020
+    400368: diakoptis orofis021
+    400370: diakoptis orofis022
+    400372: diakoptis orofis023
+    400374: diakoptis orofis024
+    400376: diakoptis orofis025
+    400378: Dummy001
+    400380: Dummy002
+    400382: Dummy003
+    400384: Dummy004
+    400386: Group009
+    400388: Group010
+    400390: Group015
+    400392: Group016
+    400394: Group018
+    400396: Group019
+    400398: Group021
+    400400: Group022
+    400402: Group024
+    400404: Group025
+    400406: Group026
+    400408: Group027
+    400410: Group028
+    400412: Group029
+    400414: Group030
+    400416: Group031
+    400418: Group032
+    400420: Group033
+    400422: Group034
+    400424: Group035
+    400426: Group036
+    400428: Group037
+    400430: Group038
+    400432: Group039
+    400434: Group040
+    400436: Group041
+    400438: Group042
+    400440: Group043
+    400442: Group044
+    400444: Group045
+    400446: Group046
+    400448: Group047
+    400450: Group048
+    400452: Group049
+    400454: Group050
+    400456: ixio
+    400458: ixio001
+    400460: ixio002
+    400462: ixio003
+    400464: ixio004
+    400466: ixio005
+    400468: kara para8iru002
+    400470: kara para8iru003
+    400472: kara para8iru004
+    400474: kara para8iru005
+    400476: kara para8iru006
+    400478: kara para8iru007
+    400480: kara para8iru008
+    400482: kara para8iru009
+    400484: kara para8iru010
+    400486: kara para8iru011
+    400488: karekla010
+    400490: karekla011
+    400492: karekla012
+    400494: karekla013
+    400496: karekla014
+    400498: karekla015
+    400500: karekla016
+    400502: karekla017
+    400504: karekla018
+    400506: karekla019
+    400508: karekla020
+    400510: karekla021
+    400512: karekla022
+    400514: karekla023
+    400516: karekla024
+    400518: karekla025
+    400520: karekla026
+    400522: karekla027
+    400524: karekla028
+    400526: karekla029
+    400528: karekla030
+    400530: karekla031
+    400532: karekla032
+    400534: karekla033
+    400536: karekla034
+    400538: karekla035
+    400540: karekla036
+    400542: karekla037
+    400544: karekla038
+    400546: karekla039
+    400548: karekla040
+    400550: karekla041
+    400552: karekla042
+    400554: karekla043
+    400556: karekla044
+    400558: karekla045
+    400560: karekla046
+    400562: karekla047
+    400564: karekla048
+    400566: karekla049
+    400568: karekla050
+    400570: karekla051
+    400572: karekla052
+    400574: karekla053
+    400576: karekla054
+    400578: karekla055
+    400580: karekla056
+    400582: karekla057
+    400584: karekla058
+    400586: karekla059
+    400588: kasa parauiru003
+    400590: kasa parauiru004
+    400592: kasa parauiru005
+    400594: kasa parauiru006
+    400596: kasa parauiru007
+    400598: kasa parauiru008
+    400600: kasa parauiru009
+    400602: kasa parauiru010
+    400604: kasa parauiru011
+    400606: kasa parauiru012
+    400608: kasa parauiru013
+    400610: kasa parauiru014
+    400612: kasa parauiru015
+    400614: kasa parauiru016
+    400616: kasa parauiru017
+    400618: kasa parauiru018
+    400620: kasa parauiru019
+    400622: kasa parauiru020
+    400624: kasa parauiru021
+    400626: kasa parauiru022
+    400628: kolona portas002
+    400630: kolona portas003
+    400632: kolona portas004
+    400634: kolona portas005
+    400636: kolona portas006
+    400638: kolona portas007
+    400640: kolona portas008
+    400642: kolona portas009
+    400644: kolona portas010
+    400646: kolona portas011
+    400648: kolona004
+    400650: kolona007
+    400652: kolona008
+    400654: kolona009
+    400656: kolona010
+    400658: kolona012
+    400660: kolona013
+    400662: kolona014
+    400664: kolona015
+    400666: kolona016
+    400668: kolona017
+    400670: korodni xerouliou
+    400672: korodni xerouliou001
+    400674: korodni xerouliou002
+    400676: korodni xerouliou003
+    400678: korodni xerouliou004
+    400680: korodni xerouliou005
+    400682: korodni xerouliou006
+    400684: korodni xerouliou007
+    400686: korodni xerouliou008
+    400688: korodni xerouliou009
+    400690: korodni xerouliou010
+    400692: korodni xerouliou011
+    400694: korodni xerouliou012
+    400696: korodni xerouliou013
+    400698: korodni xerouliou014
+    400700: korodni xerouliou015
+    400702: korodni xerouliou016
+    400704: korodni xerouliou017
+    400706: korodni xerouliou018
+    400708: koudouni004
+    400710: koudouni005
+    400712: koudouni006
+    400714: koudouni007
+    400716: koudouni008
+    400718: koudouni009
+    400720: koudouni010
+    400722: koudouni011
+    400724: koudouni012
+    400726: koudouni013
+    400728: koudouni014
+    400730: koudouni015
+    400732: koudouni016
+    400734: koudouni017
+    400736: koudouni018
+    400738: koudouni019
+    400740: koudouni020
+    400742: koudouni021
+    400744: koudouni022
+    400746: koudouni023
+    400748: lampa
+    400750: 'lampa '
+    400752: lampa 001
+    400754: lampa 002
+    400756: lampa 003
+    400758: lampa 004
+    400760: lampa 005
+    400762: lampa 006
+    400764: lampa 007
+    400766: lampa 008
+    400768: lampa 009
+    400770: lampa 010
+    400772: lampa 011
+    400774: lampa 012
+    400776: lampa 013
+    400778: lampa 014
+    400780: lampa 015
+    400782: lampa 016
+    400784: lampa 017
+    400786: lampa 018
+    400788: lampa 019
+    400790: lampa 020
+    400792: lampa 021
+    400794: lampa 022
+    400796: lampa 023
+    400798: lampa001
+    400800: lampa002
+    400802: lampa003
+    400804: lampa004
+    400806: lampa005
+    400808: lampa006
+    400810: lampa007
+    400812: lampa008
+    400814: lampa009
+    400816: lampa010
+    400818: lampa011
+    400820: lastixo portas004
+    400822: lastixo portas005
+    400824: lastixo portas006
+    400826: lastixo portas007
+    400828: lastixo portas008
+    400830: lastixo portas009
+    400832: lastixo portas010
+    400834: lastixo portas011
+    400836: lastixo portas012
+    400838: lastixo portas013
+    400840: lastixo portas014
+    400842: lastixo portas015
+    400844: lastixo portas016
+    400846: lastixo portas017
+    400848: lastixo portas018
+    400850: lastixo portas019
+    400852: lastixo portas020
+    400854: lastixo portas021
+    400856: lastixo portas022
+    400858: lastixo portas023
+    400860: Object015
+    400862: Object019
+    400864: Object020
+    400866: Object021
+    400868: Object022
+    400870: Object023
+    400872: Object024
+    400874: Object025
+    400876: Object026
+    400878: Object027
+    400880: Object028
+    400882: Object029
+    400884: Object030
+    400886: Object031
+    400888: Object032
+    400890: Object033
+    400892: Object034
+    400894: Object035
+    400896: Object036
+    400898: Object037
+    400900: Object038
+    400902: Object039
+    400904: Object040
+    400906: Object041
+    400908: Object042
+    400910: Object043
+    400912: Object044
+    400914: Object045
+    400916: Object046
+    400918: Object047
+    400920: Object048
+    400922: Object049
+    400924: Object050
+    400926: Object051
+    400928: Object052
+    400930: Object053
+    400932: Object054
+    400934: Object055
+    400936: Object056
+    400938: Object057
+    400940: Object058
+    400942: Object059
+    400944: Object060
+    400946: Object061
+    400948: Object062
+    400950: Object063
+    400952: Object064
+    400954: Object065
+    400956: Object066
+    400958: Object067
+    400960: Object068
+    400962: Object069
+    400964: Object070
+    400966: Object071
+    400968: orofi
+    400970: para8iro diafimisis004
+    400972: para8iro diafimisis005
+    400974: para8iro diafimisis006
+    400976: para8iro diafimisis007
+    400978: para8iro diafimisis008
+    400980: para8iro diafimisis009
+    400982: para8iro diafimisis010
+    400984: para8iro diafimisis011
+    400986: para8iro diafimisis012
+    400988: para8iro diafimisis013
+    400990: para8iro diafimisis014
+    400992: para8iro diafimisis015
+    400994: para8iro diafimisis016
+    400996: para8iro diafimisis017
+    400998: para8iro diafimisis018
+    401000: para8iro diafimisis019
+    401002: para8iro diafimisis020
+    401004: para8iro diafimisis021
+    401006: para8iro diafimisis022
+    401008: para8iro diafimisis023
+    401010: patos kareklas010
+    401012: patos kareklas011
+    401014: patos kareklas012
+    401016: patos kareklas013
+    401018: patos kareklas014
+    401020: patos kareklas015
+    401022: patos kareklas016
+    401024: patos kareklas017
+    401026: patos kareklas018
+    401028: patos kareklas019
+    401030: patos kareklas020
+    401032: patos kareklas021
+    401034: patos kareklas022
+    401036: patos kareklas023
+    401038: patos kareklas024
+    401040: patos kareklas025
+    401042: patos kareklas026
+    401044: patos kareklas027
+    401046: patos kareklas028
+    401048: patos kareklas029
+    401050: patos kareklas030
+    401052: patos kareklas031
+    401054: patos kareklas032
+    401056: patos kareklas033
+    401058: patos kareklas034
+    401060: patos kareklas035
+    401062: patos kareklas036
+    401064: patos kareklas037
+    401066: patos kareklas038
+    401068: patos kareklas039
+    401070: patos kareklas040
+    401072: patos kareklas041
+    401074: patos kareklas042
+    401076: patos kareklas043
+    401078: patos kareklas044
+    401080: patos kareklas045
+    401082: patos kareklas046
+    401084: patos kareklas047
+    401086: patos kareklas048
+    401088: patos kareklas049
+    401090: patos kareklas050
+    401092: patos kareklas051
+    401094: patos kareklas052
+    401096: patos kareklas053
+    401098: patos kareklas054
+    401100: patos kareklas055
+    401102: patos kareklas056
+    401104: patos kareklas057
+    401106: patos kareklas058
+    401108: patos kareklas059
+    401110: Plane003
+    401112: Plane016
+    401114: Plane017
+    401116: Plane018
+    401118: Plane019
+    401120: Plane020
+    401122: Plane021
+    401124: Plane022
+    401126: Plane023
+    401128: Plane024
+    401130: Plane025
+    401132: Plane026
+    401134: Plane027
+    401136: porta004
+    401138: porta005
+    401140: porta006
+    401142: porta007
+    401144: porta008
+    401146: porta009
+    401148: porta010
+    401150: porta011
+    401152: porta012
+    401154: porta013
+    401156: porta014
+    401158: porta015
+    401160: porta016
+    401162: porta017
+    401164: porta018
+    401166: porta019
+    401168: porta020
+    401170: porta021
+    401172: porta022
+    401174: porta023
+    401176: Rectangle008
+    401178: Rectangle009
+    401180: Rectangle010
+    401182: Rectangle011
+    401184: Rectangle012
+    401186: Rectangle013
+    401188: Rectangle014
+    401190: Rectangle015
+    401192: Rectangle016
+    401194: Rectangle017
+    401196: Rectangle018
+    401198: Rectangle019
+    401200: Rectangle020
+    401202: Rectangle021
+    401204: Rectangle022
+    401206: Rectangle023
+    401208: Rectangle024
+    401210: Rectangle025
+    401212: Rectangle026
+    401214: Rectangle027
+    401216: rolo diakoptis para8iru003
+    401218: rolo diakoptis para8iru004
+    401220: rolo diakoptis para8iru005
+    401222: rolo diakoptis para8iru006
+    401224: rolo diakoptis para8iru007
+    401226: rolo diakoptis para8iru008
+    401228: rolo diakoptis para8iru009
+    401230: rolo diakoptis para8iru010
+    401232: rolo diakoptis para8iru011
+    401234: rolo diakoptis para8iru012
+    401236: rolo diakoptis para8iru013
+    401238: rolo diakoptis para8iru014
+    401240: rolo diakoptis para8iru015
+    401242: rolo diakoptis para8iru016
+    401244: rolo diakoptis para8iru017
+    401246: rolo diakoptis para8iru018
+    401248: rolo diakoptis para8iru019
+    401250: rolo diakoptis para8iru020
+    401252: rolo diakoptis para8iru021
+    401254: rolo diakoptis para8iru022
+    401256: Sphere007
+    401258: Sphere008
+    401260: Sphere009
+    401262: Sphere010
+    401264: Sphere011
+    401266: Sphere012
+    401268: Sphere013
+    401270: Sphere014
+    401272: Sphere015
+    401274: Sphere016
+    401276: Sphere017
+    401278: Sphere018
+    401280: Sphere019
+    401282: Sphere020
+    401284: Sphere021
+    401286: Sphere022
+    401288: Sphere023
+    401290: Sphere024
+    401292: Sphere025
+    401294: Sphere026
+    401296: Sphere027
+    401298: Sphere028
+    401300: Sphere029
+    401302: Sphere030
+    401304: Sphere031
+    401306: Sphere032
+    401308: Sphere033
+    401310: Sphere034
+    401312: Sphere035
+    401314: Sphere036
+    401316: Sphere037
+    401318: steka portas007
+    401320: steka portas008
+    401322: steka portas009
+    401324: steka portas010
+    401326: steka portas011
+    401328: steka portas012
+    401330: steka portas013
+    401332: steka portas014
+    401334: steka portas015
+    401336: steka portas016
+    401338: steka portas017
+    401340: steka portas018
+    401342: steka portas019
+    401344: steka portas020
+    401346: steka portas021
+    401348: steka portas022
+    401350: steka portas023
+    401352: steka portas024
+    401354: steka portas025
+    401356: steka portas026
+    401358: steka portas027
+    401360: steka portas028
+    401362: steka portas029
+    401364: steka portas030
+    401366: steka portas031
+    401368: steka portas032
+    401370: steka portas033
+    401372: steka portas034
+    401374: steka portas035
+    401376: steka portas036
+    401378: tamplo004
+    401380: tamplo005
+    401382: tamplo006
+    401384: tamplo007
+    401386: tamplo008
+    401388: tamplo010
+    401390: tamplo011
+    401392: tamplo012
+    401394: tamplo013
+    401396: tamplo014
+    401398: tamplo015
+    401400: tamplo016
+    401402: tamplo017
+    401404: tamplo018
+    401406: tamplo019
+    401408: tamplo020
+    401410: tamplo021
+    401412: tamplo022
+    401414: tamplo023
+    401416: tamplo024
+    401418: tavani tap
+    401420: tavani tap001
+    401422: tavani tap002
+    401424: tavani tap003
+    401426: tavani tap004
+    401428: tavani tap005
+    401430: tazimi002
+    401432: tazimi003
+    401434: tazimi004
+    401436: tazimi005
+    401438: tazimi006
+    401440: tazimi007
+    401442: tazimi008
+    401444: tazimi009
+    401446: tazimi010
+    401448: tazimi011
+    401450: //RootNode
+    401452: tzami diafimisis004
+    401454: tzami diafimisis005
+    401456: tzami diafimisis006
+    401458: tzami diafimisis007
+    401460: tzami diafimisis008
+    401462: tzami diafimisis009
+    401464: tzami diafimisis010
+    401466: tzami diafimisis011
+    401468: tzami diafimisis012
+    401470: tzami diafimisis013
+    401472: tzami diafimisis014
+    401474: tzami diafimisis015
+    401476: tzami diafimisis016
+    401478: tzami diafimisis017
+    401480: tzami diafimisis018
+    401482: tzami diafimisis019
+    401484: tzami diafimisis020
+    401486: tzami diafimisis021
+    401488: tzami diafimisis022
+    401490: tzami diafimisis023
+    401492: tzami portas lastixo004
+    401494: tzami portas lastixo005
+    401496: tzami portas lastixo006
+    401498: tzami portas lastixo007
+    401500: tzami portas lastixo008
+    401502: tzami portas lastixo009
+    401504: tzami portas lastixo010
+    401506: tzami portas lastixo011
+    401508: tzami portas lastixo012
+    401510: tzami portas lastixo013
+    401512: tzami portas lastixo014
+    401514: tzami portas lastixo015
+    401516: tzami portas lastixo016
+    401518: tzami portas lastixo017
+    401520: tzami portas lastixo018
+    401522: tzami portas lastixo019
+    401524: tzami portas lastixo020
+    401526: tzami portas lastixo021
+    401528: tzami portas lastixo022
+    401530: tzami portas lastixo023
+    401532: tzami portas004
+    401534: tzami portas005
+    401536: tzami portas006
+    401538: tzami portas007
+    401540: tzami portas008
+    401542: tzami portas009
+    401544: tzami portas010
+    401546: tzami portas011
+    401548: tzami portas012
+    401550: tzami portas013
+    401552: tzami portas014
+    401554: tzami portas015
+    401556: tzami portas016
+    401558: tzami portas017
+    401560: tzami portas018
+    401562: tzami portas019
+    401564: tzami portas020
+    401566: tzami portas021
+    401568: tzami portas022
+    401570: tzami portas023
+    401572: tzami tamplo004
+    401574: tzami tamplo005
+    401576: tzami tamplo006
+    401578: tzami tamplo007
+    401580: tzami tamplo008
+    401582: tzami tamplo010
+    401584: tzami tamplo011
+    401586: tzami tamplo012
+    401588: tzami tamplo013
+    401590: tzami tamplo014
+    401592: tzami tamplo015
+    401594: tzami tamplo016
+    401596: tzami tamplo017
+    401598: tzami tamplo018
+    401600: tzami tamplo019
+    401602: tzami tamplo020
+    401604: tzami tamplo021
+    401606: tzami tamplo022
+    401608: tzami tamplo023
+    401610: tzami tamplo024
+    401612: tzami002
+    401614: tzami003
+    401616: tzami004
+    401618: tzami005
+    401620: tzami006
+    401622: tzami007
+    401624: tzami008
+    401626: tzami009
+    401628: tzami010
+    401630: tzami011
+    401632: vida xerouliou
+    401634: vida xerouliou001
+    401636: vida xerouliou002
+    401638: vida xerouliou003
+    401640: vida xerouliou004
+    401642: vida xerouliou005
+    401644: vida xerouliou006
+    401646: vida xerouliou007
+    401648: vida xerouliou008
+    401650: vida xerouliou009
+    401652: vida xerouliou010
+    401654: vida xerouliou011
+    401656: vida xerouliou012
+    401658: vida xerouliou013
+    401660: vida xerouliou014
+    401662: vida xerouliou015
+    401664: vida xerouliou016
+    401666: vida xerouliou017
+    401668: vida xerouliou018
+    401670: vides004
+    401672: vides005
+    401674: vides006
+    401676: vides007
+    401678: vides008
+    401680: vides009
+    401682: vides010
+    401684: vides011
+    401686: vides012
+    401688: vides013
+    401690: vides014
+    401692: vides015
+    401694: vides016
+    401696: vides017
+    401698: vides018
+    401700: vides019
+    401702: vides020
+    401704: vides021
+    401706: vides022
+    401708: vides023
+    401710: VRayLight002
+    401712: VRayLight003
+    401714: VRayLight004
+    401716: VRayLight005
+    401718: VRayLight006
+    401720: VRayLight007
+    401722: VRayLight008
+    401724: VRayLight009
+    401726: VRayLight010
+    401728: VRayLight011
+    401730: VRayLight012
+    401732: VRayLight013
+    401734: VRayLight014
+    401736: VRayLight015
+    401738: VRayLight016
+    401740: VRayLight017
+    401742: VRayLight018
+    401744: VRayLight019
+    401746: VRayLight020
+    401748: VRayLight021
+    401750: VRayLight022
+    401752: VRayLight023
+    401754: VRayLight024
+    401756: VRayLight025
+    401758: VRayLight026
+    401760: VRayLight027
+    401762: VRayLight028
+    401764: VRayLight029
+    401766: VRayLight030
+    401768: VRayLight031
+    401770: VRayLight032
+    401772: VRayLight033
+    401774: VRayLight034
+    401776: VRayLight035
+    401778: VRayLight036
+    401780: VRayLight037
+    401782: VRayLight038
+    401784: VRayLight039
+    401786: VRayLight040
+    401788: xarti diafimis004
+    401790: xarti diafimis005
+    401792: xarti diafimis006
+    401794: xarti diafimis007
+    401796: xarti diafimis008
+    401798: xarti diafimis009
+    401800: xarti diafimis010
+    401802: xarti diafimis011
+    401804: xarti diafimis012
+    401806: xarti diafimis013
+    401808: xarti diafimis014
+    401810: xarti diafimis015
+    401812: xarti diafimis016
+    401814: xarti diafimis017
+    401816: xarti diafimis018
+    401818: xarti diafimis019
+    401820: xarti diafimis020
+    401822: xarti diafimis021
+    401824: xarti diafimis022
+    401826: xarti diafimis023
+    401828: xarti tamplou004
+    401830: xarti tamplou005
+    401832: xarti tamplou006
+    401834: xarti tamplou007
+    401836: xarti tamplou008
+    401838: xarti tamplou010
+    401840: xarti tamplou011
+    401842: xarti tamplou012
+    401844: xarti tamplou013
+    401846: xarti tamplou014
+    401848: xarti tamplou015
+    401850: xarti tamplou016
+    401852: xarti tamplou017
+    401854: xarti tamplou018
+    401856: xarti tamplou019
+    401858: xarti tamplou020
+    401860: xarti tamplou021
+    401862: xarti tamplou022
+    401864: xarti tamplou023
+    401866: xarti tamplou024
+    401868: xerouli
+    401870: xerouli001
+    401872: xerouli002
+    401874: xerouli003
+    401876: xerouli004
+    401878: xerouli005
+    401880: xerouli006
+    401882: xerouli007
+    401884: xerouli008
+    401886: xerouli009
+    401888: xerouli010
+    401890: xerouli011
+    401892: xerouli012
+    401894: xerouli013
+    401896: xerouli014
+    401898: xerouli015
+    401900: xerouli016
+    401902: xerouli017
+    401904: xerouli018
+    401906: xoristiko lampas
+    401908: xoristiko lampas001
+    401910: xoristiko lampas002
+    401912: xoristiko lampas003
+    401914: xoristiko lampas004
+    401916: xoristiko lampas005
+    401918: xoristiko lampas006
+    401920: xoristiko lampas007
+    401922: xoristiko lampas008
+    401924: xoristiko lampas009
+    401926: xoristiko lampas010
+    401928: xoristiko lampas011
+    401930: xoristiko lampas012
+    401932: xoristiko lampas013
+    401934: xoristiko lampas014
+    401936: xoristiko lampas015
+    401938: xoristiko lampas016
+    401940: xoristiko lampas017
+    401942: xoristiko lampas018
+    401944: xoristiko lampas019
+    401946: xoristiko lampas020
+    401948: xoristiko lampas021
+    401950: xoristiko lampas022
+    401952: xoristiko lampas023
+    401954: xoristiko lampas024
+    401956: xoristiko lampas025
+    401958: xoristiko lampas026
+    401960: xoristiko lampas027
+    401962: xoristiko lampas028
+    401964: xoristiko lampas029
+    401966: xoristiko lampas030
+    401968: xoristiko lampas031
+    401970: xoristiko lampas032
+    401972: xoristiko lampas033
+    401974: xoristiko lampas034
+    401976: xoristiko lampas035
+    2100000: No Name
+    2100002: 'Material #43'
+    2100004: 'Material #38'
+    2100006: 'Material #37'
+    2100008: 'Material #40'
+    2100010: 'Material #36'
+    2100012: 01 - Default
+    2100014: 'Material #41'
+    2100016: 'Material #39'
+    2100018: 'Material #42'
+    2100020: 'Material #32'
+    2300000: bash kolonas002
+    2300002: bash kolonas003
+    2300004: bash kolonas004
+    2300006: bash kolonas005
+    2300008: bash kolonas006
+    2300010: bash kolonas007
+    2300012: bash kolonas008
+    2300014: bash kolonas009
+    2300016: bash kolonas010
+    2300018: bash kolonas011
+    2300020: basi kareklas010
+    2300022: basi kareklas011
+    2300024: basi kareklas012
+    2300026: basi kareklas013
+    2300028: basi kareklas014
+    2300030: basi kareklas015
+    2300032: basi kareklas016
+    2300034: basi kareklas017
+    2300036: basi kareklas018
+    2300038: basi kareklas019
+    2300040: basi kareklas020
+    2300042: basi kareklas021
+    2300044: basi kareklas022
+    2300046: basi kareklas023
+    2300048: basi kareklas024
+    2300050: basi kareklas025
+    2300052: basi kareklas026
+    2300054: basi kareklas027
+    2300056: basi kareklas028
+    2300058: basi kareklas029
+    2300060: basi kareklas030
+    2300062: basi kareklas031
+    2300064: basi kareklas032
+    2300066: basi kareklas033
+    2300068: basi kareklas034
+    2300070: basi kareklas035
+    2300072: basi kareklas036
+    2300074: basi kareklas037
+    2300076: basi kareklas038
+    2300078: basi kareklas039
+    2300080: basi kareklas040
+    2300082: basi kareklas041
+    2300084: basi kareklas042
+    2300086: basi kareklas043
+    2300088: basi kareklas044
+    2300090: basi kareklas045
+    2300092: basi kareklas046
+    2300094: basi kareklas047
+    2300096: basi kareklas048
+    2300098: basi kareklas049
+    2300100: basi kareklas050
+    2300102: basi kareklas051
+    2300104: basi kareklas052
+    2300106: basi kareklas053
+    2300108: basi kareklas054
+    2300110: basi kareklas055
+    2300112: basi kareklas056
+    2300114: basi kareklas057
+    2300116: basi kareklas058
+    2300118: basi kareklas059
+    2300120: basi kolonas006
+    2300122: basi kolonas007
+    2300124: basi kolonas008
+    2300126: basi kolonas009
+    2300128: basi kolonas010
+    2300130: basi kolonas011
+    2300132: basi kolonas012
+    2300134: basi kolonas013
+    2300136: basi kolonas014
+    2300138: basi kolonas015
+    2300140: basi kolonas016
+    2300142: basi kolonas017
+    2300144: basi kolonas018
+    2300146: basi kolonas019
+    2300148: basi kolonas020
+    2300150: basi kolonas021
+    2300152: basi kolonas022
+    2300154: basi kolonas023
+    2300156: basi kolonas024
+    2300158: basi kolonas025
+    2300160: basi kolonas026
+    2300162: basi kolonas027
+    2300164: basi kolonas028
+    2300166: basi kolonas029
+    2300168: basi kolonas030
+    2300170: basi kolonas031
+    2300172: basi kolonas032
+    2300174: basi kolonas033
+    2300176: basi kolonas034
+    2300178: basi kolonas035
+    2300180: botton004
+    2300182: botton005
+    2300184: botton006
+    2300186: botton007
+    2300188: botton008
+    2300190: botton009
+    2300192: botton010
+    2300194: botton011
+    2300196: botton012
+    2300198: botton013
+    2300200: botton014
+    2300202: botton015
+    2300204: botton016
+    2300206: botton017
+    2300208: botton018
+    2300210: botton019
+    2300212: botton020
+    2300214: botton021
+    2300216: botton022
+    2300218: botton023
+    2300220: Box001
+    2300222: Box002
+    2300224: Box003
+    2300226: Box004
+    2300228: button ring004
+    2300230: button ring005
+    2300232: button ring006
+    2300234: button ring007
+    2300236: button ring008
+    2300238: button ring009
+    2300240: button ring010
+    2300242: button ring011
+    2300244: button ring012
+    2300246: button ring013
+    2300248: button ring014
+    2300250: button ring015
+    2300252: button ring016
+    2300254: button ring017
+    2300256: button ring018
+    2300258: button ring019
+    2300260: button ring020
+    2300262: button ring021
+    2300264: button ring022
+    2300266: button ring023
+    2300268: ChamferBox005
+    2300270: ChamferBox006
+    2300272: ChamferBox007
+    2300274: ChamferBox008
+    2300276: ChamferBox009
+    2300278: ChamferBox010
+    2300280: ChamferBox011
+    2300282: ChamferBox012
+    2300284: ChamferBox013
+    2300286: ChamferBox014
+    2300288: ChamferBox015
+    2300290: ChamferBox016
+    2300292: ChamferBox017
+    2300294: ChamferBox018
+    2300296: ChamferBox019
+    2300298: ChamferBox020
+    2300300: ChamferBox021
+    2300302: ChamferBox022
+    2300304: ChamferBox023
+    2300306: ChamferBox024
+    2300308: ChamferBox025
+    2300310: ChamferBox026
+    2300312: Cylinder004
+    2300314: Cylinder005
+    2300316: Cylinder006
+    2300318: Cylinder007
+    2300320: Cylinder008
+    2300322: Cylinder009
+    2300324: Cylinder010
+    2300326: Cylinder011
+    2300328: Cylinder012
+    2300330: Cylinder013
+    2300332: Cylinder014
+    2300334: diakoptis orofis004
+    2300336: diakoptis orofis005
+    2300338: diakoptis orofis006
+    2300340: diakoptis orofis007
+    2300342: diakoptis orofis010
+    2300344: diakoptis orofis011
+    2300346: diakoptis orofis012
+    2300348: diakoptis orofis013
+    2300350: diakoptis orofis014
+    2300352: diakoptis orofis015
+    2300354: diakoptis orofis016
+    2300356: diakoptis orofis017
+    2300358: diakoptis orofis018
+    2300360: diakoptis orofis019
+    2300362: diakoptis orofis020
+    2300364: diakoptis orofis021
+    2300366: diakoptis orofis022
+    2300368: diakoptis orofis023
+    2300370: diakoptis orofis024
+    2300372: diakoptis orofis025
+    2300374: ixio
+    2300376: ixio001
+    2300378: ixio002
+    2300380: ixio003
+    2300382: ixio004
+    2300384: ixio005
+    2300386: kara para8iru002
+    2300388: kara para8iru003
+    2300390: kara para8iru004
+    2300392: kara para8iru005
+    2300394: kara para8iru006
+    2300396: kara para8iru007
+    2300398: kara para8iru008
+    2300400: kara para8iru009
+    2300402: kara para8iru010
+    2300404: kara para8iru011
+    2300406: karekla010
+    2300408: karekla011
+    2300410: karekla012
+    2300412: karekla013
+    2300414: karekla014
+    2300416: karekla015
+    2300418: karekla016
+    2300420: karekla017
+    2300422: karekla018
+    2300424: karekla019
+    2300426: karekla020
+    2300428: karekla021
+    2300430: karekla022
+    2300432: karekla023
+    2300434: karekla024
+    2300436: karekla025
+    2300438: karekla026
+    2300440: karekla027
+    2300442: karekla028
+    2300444: karekla029
+    2300446: karekla030
+    2300448: karekla031
+    2300450: karekla032
+    2300452: karekla033
+    2300454: karekla034
+    2300456: karekla035
+    2300458: karekla036
+    2300460: karekla037
+    2300462: karekla038
+    2300464: karekla039
+    2300466: karekla040
+    2300468: karekla041
+    2300470: karekla042
+    2300472: karekla043
+    2300474: karekla044
+    2300476: karekla045
+    2300478: karekla046
+    2300480: karekla047
+    2300482: karekla048
+    2300484: karekla049
+    2300486: karekla050
+    2300488: karekla051
+    2300490: karekla052
+    2300492: karekla053
+    2300494: karekla054
+    2300496: karekla055
+    2300498: karekla056
+    2300500: karekla057
+    2300502: karekla058
+    2300504: karekla059
+    2300506: kasa parauiru003
+    2300508: kasa parauiru004
+    2300510: kasa parauiru005
+    2300512: kasa parauiru006
+    2300514: kasa parauiru007
+    2300516: kasa parauiru008
+    2300518: kasa parauiru009
+    2300520: kasa parauiru010
+    2300522: kasa parauiru011
+    2300524: kasa parauiru012
+    2300526: kasa parauiru013
+    2300528: kasa parauiru014
+    2300530: kasa parauiru015
+    2300532: kasa parauiru016
+    2300534: kasa parauiru017
+    2300536: kasa parauiru018
+    2300538: kasa parauiru019
+    2300540: kasa parauiru020
+    2300542: kasa parauiru021
+    2300544: kasa parauiru022
+    2300546: kolona portas002
+    2300548: kolona portas003
+    2300550: kolona portas004
+    2300552: kolona portas005
+    2300554: kolona portas006
+    2300556: kolona portas007
+    2300558: kolona portas008
+    2300560: kolona portas009
+    2300562: kolona portas010
+    2300564: kolona portas011
+    2300566: kolona004
+    2300568: kolona007
+    2300570: kolona008
+    2300572: kolona009
+    2300574: kolona010
+    2300576: kolona012
+    2300578: kolona013
+    2300580: kolona014
+    2300582: kolona015
+    2300584: kolona016
+    2300586: kolona017
+    2300588: koudouni004
+    2300590: koudouni005
+    2300592: koudouni006
+    2300594: koudouni007
+    2300596: koudouni008
+    2300598: koudouni009
+    2300600: koudouni010
+    2300602: koudouni011
+    2300604: koudouni012
+    2300606: koudouni013
+    2300608: koudouni014
+    2300610: koudouni015
+    2300612: koudouni016
+    2300614: koudouni017
+    2300616: koudouni018
+    2300618: koudouni019
+    2300620: koudouni020
+    2300622: koudouni021
+    2300624: koudouni022
+    2300626: koudouni023
+    2300628: lampa
+    2300630: 'lampa '
+    2300632: lampa 001
+    2300634: lampa 002
+    2300636: lampa 003
+    2300638: lampa 004
+    2300640: lampa 005
+    2300642: lampa 006
+    2300644: lampa 007
+    2300646: lampa 008
+    2300648: lampa 009
+    2300650: lampa 010
+    2300652: lampa 011
+    2300654: lampa 012
+    2300656: lampa 013
+    2300658: lampa 014
+    2300660: lampa 015
+    2300662: lampa 016
+    2300664: lampa 017
+    2300666: lampa 018
+    2300668: lampa 019
+    2300670: lampa 020
+    2300672: lampa 021
+    2300674: lampa 022
+    2300676: lampa 023
+    2300678: lampa001
+    2300680: lampa002
+    2300682: lampa003
+    2300684: lampa004
+    2300686: lampa005
+    2300688: lampa006
+    2300690: lampa007
+    2300692: lampa008
+    2300694: lampa009
+    2300696: lampa010
+    2300698: lampa011
+    2300700: lastixo portas004
+    2300702: lastixo portas005
+    2300704: lastixo portas006
+    2300706: lastixo portas007
+    2300708: lastixo portas008
+    2300710: lastixo portas009
+    2300712: lastixo portas010
+    2300714: lastixo portas011
+    2300716: lastixo portas012
+    2300718: lastixo portas013
+    2300720: lastixo portas014
+    2300722: lastixo portas015
+    2300724: lastixo portas016
+    2300726: lastixo portas017
+    2300728: lastixo portas018
+    2300730: lastixo portas019
+    2300732: lastixo portas020
+    2300734: lastixo portas021
+    2300736: lastixo portas022
+    2300738: lastixo portas023
+    2300740: Object015
+    2300742: Object019
+    2300744: Object020
+    2300746: Object021
+    2300748: Object022
+    2300750: Object023
+    2300752: Object024
+    2300754: Object025
+    2300756: Object026
+    2300758: Object027
+    2300760: Object028
+    2300762: Object029
+    2300764: Object030
+    2300766: Object031
+    2300768: Object032
+    2300770: Object033
+    2300772: Object034
+    2300774: Object035
+    2300776: Object036
+    2300778: Object037
+    2300780: Object038
+    2300782: Object039
+    2300784: Object040
+    2300786: Object041
+    2300788: Object042
+    2300790: Object043
+    2300792: Object044
+    2300794: Object045
+    2300796: Object046
+    2300798: Object047
+    2300800: Object048
+    2300802: Object049
+    2300804: Object050
+    2300806: Object051
+    2300808: Object052
+    2300810: Object053
+    2300812: Object054
+    2300814: Object055
+    2300816: Object056
+    2300818: Object057
+    2300820: Object058
+    2300822: Object059
+    2300824: Object060
+    2300826: Object061
+    2300828: Object062
+    2300830: Object063
+    2300832: Object064
+    2300834: Object065
+    2300836: Object066
+    2300838: Object067
+    2300840: Object068
+    2300842: Object069
+    2300844: Object070
+    2300846: Object071
+    2300848: orofi
+    2300850: para8iro diafimisis004
+    2300852: para8iro diafimisis005
+    2300854: para8iro diafimisis006
+    2300856: para8iro diafimisis007
+    2300858: para8iro diafimisis008
+    2300860: para8iro diafimisis009
+    2300862: para8iro diafimisis010
+    2300864: para8iro diafimisis011
+    2300866: para8iro diafimisis012
+    2300868: para8iro diafimisis013
+    2300870: para8iro diafimisis014
+    2300872: para8iro diafimisis015
+    2300874: para8iro diafimisis016
+    2300876: para8iro diafimisis017
+    2300878: para8iro diafimisis018
+    2300880: para8iro diafimisis019
+    2300882: para8iro diafimisis020
+    2300884: para8iro diafimisis021
+    2300886: para8iro diafimisis022
+    2300888: para8iro diafimisis023
+    2300890: patos kareklas010
+    2300892: patos kareklas011
+    2300894: patos kareklas012
+    2300896: patos kareklas013
+    2300898: patos kareklas014
+    2300900: patos kareklas015
+    2300902: patos kareklas016
+    2300904: patos kareklas017
+    2300906: patos kareklas018
+    2300908: patos kareklas019
+    2300910: patos kareklas020
+    2300912: patos kareklas021
+    2300914: patos kareklas022
+    2300916: patos kareklas023
+    2300918: patos kareklas024
+    2300920: patos kareklas025
+    2300922: patos kareklas026
+    2300924: patos kareklas027
+    2300926: patos kareklas028
+    2300928: patos kareklas029
+    2300930: patos kareklas030
+    2300932: patos kareklas031
+    2300934: patos kareklas032
+    2300936: patos kareklas033
+    2300938: patos kareklas034
+    2300940: patos kareklas035
+    2300942: patos kareklas036
+    2300944: patos kareklas037
+    2300946: patos kareklas038
+    2300948: patos kareklas039
+    2300950: patos kareklas040
+    2300952: patos kareklas041
+    2300954: patos kareklas042
+    2300956: patos kareklas043
+    2300958: patos kareklas044
+    2300960: patos kareklas045
+    2300962: patos kareklas046
+    2300964: patos kareklas047
+    2300966: patos kareklas048
+    2300968: patos kareklas049
+    2300970: patos kareklas050
+    2300972: patos kareklas051
+    2300974: patos kareklas052
+    2300976: patos kareklas053
+    2300978: patos kareklas054
+    2300980: patos kareklas055
+    2300982: patos kareklas056
+    2300984: patos kareklas057
+    2300986: patos kareklas058
+    2300988: patos kareklas059
+    2300990: Plane003
+    2300992: Plane016
+    2300994: Plane017
+    2300996: Plane018
+    2300998: Plane019
+    2301000: Plane020
+    2301002: Plane021
+    2301004: Plane022
+    2301006: Plane023
+    2301008: Plane024
+    2301010: Plane025
+    2301012: Plane026
+    2301014: Plane027
+    2301016: porta004
+    2301018: porta005
+    2301020: porta006
+    2301022: porta007
+    2301024: porta008
+    2301026: porta009
+    2301028: porta010
+    2301030: porta011
+    2301032: porta012
+    2301034: porta013
+    2301036: porta014
+    2301038: porta015
+    2301040: porta016
+    2301042: porta017
+    2301044: porta018
+    2301046: porta019
+    2301048: porta020
+    2301050: porta021
+    2301052: porta022
+    2301054: porta023
+    2301056: rolo diakoptis para8iru003
+    2301058: rolo diakoptis para8iru004
+    2301060: rolo diakoptis para8iru005
+    2301062: rolo diakoptis para8iru006
+    2301064: rolo diakoptis para8iru007
+    2301066: rolo diakoptis para8iru008
+    2301068: rolo diakoptis para8iru009
+    2301070: rolo diakoptis para8iru010
+    2301072: rolo diakoptis para8iru011
+    2301074: rolo diakoptis para8iru012
+    2301076: rolo diakoptis para8iru013
+    2301078: rolo diakoptis para8iru014
+    2301080: rolo diakoptis para8iru015
+    2301082: rolo diakoptis para8iru016
+    2301084: rolo diakoptis para8iru017
+    2301086: rolo diakoptis para8iru018
+    2301088: rolo diakoptis para8iru019
+    2301090: rolo diakoptis para8iru020
+    2301092: rolo diakoptis para8iru021
+    2301094: rolo diakoptis para8iru022
+    2301096: Sphere007
+    2301098: Sphere008
+    2301100: Sphere009
+    2301102: Sphere010
+    2301104: Sphere011
+    2301106: Sphere012
+    2301108: Sphere013
+    2301110: Sphere014
+    2301112: Sphere015
+    2301114: Sphere016
+    2301116: Sphere017
+    2301118: Sphere018
+    2301120: Sphere019
+    2301122: Sphere020
+    2301124: Sphere021
+    2301126: Sphere022
+    2301128: Sphere023
+    2301130: Sphere024
+    2301132: Sphere025
+    2301134: Sphere026
+    2301136: Sphere027
+    2301138: Sphere028
+    2301140: Sphere029
+    2301142: Sphere030
+    2301144: Sphere031
+    2301146: Sphere032
+    2301148: Sphere033
+    2301150: Sphere034
+    2301152: Sphere035
+    2301154: Sphere036
+    2301156: Sphere037
+    2301158: steka portas007
+    2301160: steka portas008
+    2301162: steka portas009
+    2301164: steka portas010
+    2301166: steka portas011
+    2301168: steka portas012
+    2301170: steka portas013
+    2301172: steka portas014
+    2301174: steka portas015
+    2301176: steka portas016
+    2301178: steka portas017
+    2301180: steka portas018
+    2301182: steka portas019
+    2301184: steka portas020
+    2301186: steka portas021
+    2301188: steka portas022
+    2301190: steka portas023
+    2301192: steka portas024
+    2301194: steka portas025
+    2301196: steka portas026
+    2301198: steka portas027
+    2301200: steka portas028
+    2301202: steka portas029
+    2301204: steka portas030
+    2301206: steka portas031
+    2301208: steka portas032
+    2301210: steka portas033
+    2301212: steka portas034
+    2301214: steka portas035
+    2301216: steka portas036
+    2301218: tamplo004
+    2301220: tamplo005
+    2301222: tamplo006
+    2301224: tamplo007
+    2301226: tamplo008
+    2301228: tamplo010
+    2301230: tamplo011
+    2301232: tamplo012
+    2301234: tamplo013
+    2301236: tamplo014
+    2301238: tamplo015
+    2301240: tamplo016
+    2301242: tamplo017
+    2301244: tamplo018
+    2301246: tamplo019
+    2301248: tamplo020
+    2301250: tamplo021
+    2301252: tamplo022
+    2301254: tamplo023
+    2301256: tamplo024
+    2301258: tavani tap
+    2301260: tavani tap001
+    2301262: tavani tap002
+    2301264: tavani tap003
+    2301266: tavani tap004
+    2301268: tavani tap005
+    2301270: tazimi002
+    2301272: tazimi003
+    2301274: tazimi004
+    2301276: tazimi005
+    2301278: tazimi006
+    2301280: tazimi007
+    2301282: tazimi008
+    2301284: tazimi009
+    2301286: tazimi010
+    2301288: tazimi011
+    2301290: tzami diafimisis004
+    2301292: tzami diafimisis005
+    2301294: tzami diafimisis006
+    2301296: tzami diafimisis007
+    2301298: tzami diafimisis008
+    2301300: tzami diafimisis009
+    2301302: tzami diafimisis010
+    2301304: tzami diafimisis011
+    2301306: tzami diafimisis012
+    2301308: tzami diafimisis013
+    2301310: tzami diafimisis014
+    2301312: tzami diafimisis015
+    2301314: tzami diafimisis016
+    2301316: tzami diafimisis017
+    2301318: tzami diafimisis018
+    2301320: tzami diafimisis019
+    2301322: tzami diafimisis020
+    2301324: tzami diafimisis021
+    2301326: tzami diafimisis022
+    2301328: tzami diafimisis023
+    2301330: tzami portas lastixo004
+    2301332: tzami portas lastixo005
+    2301334: tzami portas lastixo006
+    2301336: tzami portas lastixo007
+    2301338: tzami portas lastixo008
+    2301340: tzami portas lastixo009
+    2301342: tzami portas lastixo010
+    2301344: tzami portas lastixo011
+    2301346: tzami portas lastixo012
+    2301348: tzami portas lastixo013
+    2301350: tzami portas lastixo014
+    2301352: tzami portas lastixo015
+    2301354: tzami portas lastixo016
+    2301356: tzami portas lastixo017
+    2301358: tzami portas lastixo018
+    2301360: tzami portas lastixo019
+    2301362: tzami portas lastixo020
+    2301364: tzami portas lastixo021
+    2301366: tzami portas lastixo022
+    2301368: tzami portas lastixo023
+    2301370: tzami portas004
+    2301372: tzami portas005
+    2301374: tzami portas006
+    2301376: tzami portas007
+    2301378: tzami portas008
+    2301380: tzami portas009
+    2301382: tzami portas010
+    2301384: tzami portas011
+    2301386: tzami portas012
+    2301388: tzami portas013
+    2301390: tzami portas014
+    2301392: tzami portas015
+    2301394: tzami portas016
+    2301396: tzami portas017
+    2301398: tzami portas018
+    2301400: tzami portas019
+    2301402: tzami portas020
+    2301404: tzami portas021
+    2301406: tzami portas022
+    2301408: tzami portas023
+    2301410: tzami tamplo004
+    2301412: tzami tamplo005
+    2301414: tzami tamplo006
+    2301416: tzami tamplo007
+    2301418: tzami tamplo008
+    2301420: tzami tamplo010
+    2301422: tzami tamplo011
+    2301424: tzami tamplo012
+    2301426: tzami tamplo013
+    2301428: tzami tamplo014
+    2301430: tzami tamplo015
+    2301432: tzami tamplo016
+    2301434: tzami tamplo017
+    2301436: tzami tamplo018
+    2301438: tzami tamplo019
+    2301440: tzami tamplo020
+    2301442: tzami tamplo021
+    2301444: tzami tamplo022
+    2301446: tzami tamplo023
+    2301448: tzami tamplo024
+    2301450: tzami002
+    2301452: tzami003
+    2301454: tzami004
+    2301456: tzami005
+    2301458: tzami006
+    2301460: tzami007
+    2301462: tzami008
+    2301464: tzami009
+    2301466: tzami010
+    2301468: tzami011
+    2301470: vida xerouliou
+    2301472: vida xerouliou001
+    2301474: vida xerouliou002
+    2301476: vida xerouliou003
+    2301478: vida xerouliou004
+    2301480: vida xerouliou005
+    2301482: vida xerouliou006
+    2301484: vida xerouliou007
+    2301486: vida xerouliou008
+    2301488: vida xerouliou009
+    2301490: vida xerouliou010
+    2301492: vida xerouliou011
+    2301494: vida xerouliou012
+    2301496: vida xerouliou013
+    2301498: vida xerouliou014
+    2301500: vida xerouliou015
+    2301502: vida xerouliou016
+    2301504: vida xerouliou017
+    2301506: vida xerouliou018
+    2301508: vides004
+    2301510: vides005
+    2301512: vides006
+    2301514: vides007
+    2301516: vides008
+    2301518: vides009
+    2301520: vides010
+    2301522: vides011
+    2301524: vides012
+    2301526: vides013
+    2301528: vides014
+    2301530: vides015
+    2301532: vides016
+    2301534: vides017
+    2301536: vides018
+    2301538: vides019
+    2301540: vides020
+    2301542: vides021
+    2301544: vides022
+    2301546: vides023
+    2301548: xarti diafimis004
+    2301550: xarti diafimis005
+    2301552: xarti diafimis006
+    2301554: xarti diafimis007
+    2301556: xarti diafimis008
+    2301558: xarti diafimis009
+    2301560: xarti diafimis010
+    2301562: xarti diafimis011
+    2301564: xarti diafimis012
+    2301566: xarti diafimis013
+    2301568: xarti diafimis014
+    2301570: xarti diafimis015
+    2301572: xarti diafimis016
+    2301574: xarti diafimis017
+    2301576: xarti diafimis018
+    2301578: xarti diafimis019
+    2301580: xarti diafimis020
+    2301582: xarti diafimis021
+    2301584: xarti diafimis022
+    2301586: xarti diafimis023
+    2301588: xarti tamplou004
+    2301590: xarti tamplou005
+    2301592: xarti tamplou006
+    2301594: xarti tamplou007
+    2301596: xarti tamplou008
+    2301598: xarti tamplou010
+    2301600: xarti tamplou011
+    2301602: xarti tamplou012
+    2301604: xarti tamplou013
+    2301606: xarti tamplou014
+    2301608: xarti tamplou015
+    2301610: xarti tamplou016
+    2301612: xarti tamplou017
+    2301614: xarti tamplou018
+    2301616: xarti tamplou019
+    2301618: xarti tamplou020
+    2301620: xarti tamplou021
+    2301622: xarti tamplou022
+    2301624: xarti tamplou023
+    2301626: xarti tamplou024
+    2301628: xerouli
+    2301630: xerouli001
+    2301632: xerouli002
+    2301634: xerouli003
+    2301636: xerouli004
+    2301638: xerouli005
+    2301640: xerouli006
+    2301642: xerouli007
+    2301644: xerouli008
+    2301646: xerouli009
+    2301648: xerouli010
+    2301650: xerouli011
+    2301652: xerouli012
+    2301654: xerouli013
+    2301656: xerouli014
+    2301658: xerouli015
+    2301660: xerouli016
+    2301662: xerouli017
+    2301664: xerouli018
+    2301666: xoristiko lampas
+    2301668: xoristiko lampas001
+    2301670: xoristiko lampas002
+    2301672: xoristiko lampas003
+    2301674: xoristiko lampas004
+    2301676: xoristiko lampas005
+    2301678: xoristiko lampas006
+    2301680: xoristiko lampas007
+    2301682: xoristiko lampas008
+    2301684: xoristiko lampas009
+    2301686: xoristiko lampas010
+    2301688: xoristiko lampas011
+    2301690: xoristiko lampas012
+    2301692: xoristiko lampas013
+    2301694: xoristiko lampas014
+    2301696: xoristiko lampas015
+    2301698: xoristiko lampas016
+    2301700: xoristiko lampas017
+    2301702: xoristiko lampas018
+    2301704: xoristiko lampas019
+    2301706: xoristiko lampas020
+    2301708: xoristiko lampas021
+    2301710: xoristiko lampas022
+    2301712: xoristiko lampas023
+    2301714: xoristiko lampas024
+    2301716: xoristiko lampas025
+    2301718: xoristiko lampas026
+    2301720: xoristiko lampas027
+    2301722: xoristiko lampas028
+    2301724: xoristiko lampas029
+    2301726: xoristiko lampas030
+    2301728: xoristiko lampas031
+    2301730: xoristiko lampas032
+    2301732: xoristiko lampas033
+    2301734: xoristiko lampas034
+    2301736: xoristiko lampas035
+    3300000: bash kolonas002
+    3300002: bash kolonas003
+    3300004: bash kolonas004
+    3300006: bash kolonas005
+    3300008: bash kolonas006
+    3300010: bash kolonas007
+    3300012: bash kolonas008
+    3300014: bash kolonas009
+    3300016: bash kolonas010
+    3300018: bash kolonas011
+    3300020: basi kareklas010
+    3300022: basi kareklas011
+    3300024: basi kareklas012
+    3300026: basi kareklas013
+    3300028: basi kareklas014
+    3300030: basi kareklas015
+    3300032: basi kareklas016
+    3300034: basi kareklas017
+    3300036: basi kareklas018
+    3300038: basi kareklas019
+    3300040: basi kareklas020
+    3300042: basi kareklas021
+    3300044: basi kareklas022
+    3300046: basi kareklas023
+    3300048: basi kareklas024
+    3300050: basi kareklas025
+    3300052: basi kareklas026
+    3300054: basi kareklas027
+    3300056: basi kareklas028
+    3300058: basi kareklas029
+    3300060: basi kareklas030
+    3300062: basi kareklas031
+    3300064: basi kareklas032
+    3300066: basi kareklas033
+    3300068: basi kareklas034
+    3300070: basi kareklas035
+    3300072: basi kareklas036
+    3300074: basi kareklas037
+    3300076: basi kareklas038
+    3300078: basi kareklas039
+    3300080: basi kareklas040
+    3300082: basi kareklas041
+    3300084: basi kareklas042
+    3300086: basi kareklas043
+    3300088: basi kareklas044
+    3300090: basi kareklas045
+    3300092: basi kareklas046
+    3300094: basi kareklas047
+    3300096: basi kareklas048
+    3300098: basi kareklas049
+    3300100: basi kareklas050
+    3300102: basi kareklas051
+    3300104: basi kareklas052
+    3300106: basi kareklas053
+    3300108: basi kareklas054
+    3300110: basi kareklas055
+    3300112: basi kareklas056
+    3300114: basi kareklas057
+    3300116: basi kareklas058
+    3300118: basi kareklas059
+    3300120: basi kolonas006
+    3300122: basi kolonas007
+    3300124: basi kolonas008
+    3300126: basi kolonas009
+    3300128: basi kolonas010
+    3300130: basi kolonas011
+    3300132: basi kolonas012
+    3300134: basi kolonas013
+    3300136: basi kolonas014
+    3300138: basi kolonas015
+    3300140: basi kolonas016
+    3300142: basi kolonas017
+    3300144: basi kolonas018
+    3300146: basi kolonas019
+    3300148: basi kolonas020
+    3300150: basi kolonas021
+    3300152: basi kolonas022
+    3300154: basi kolonas023
+    3300156: basi kolonas024
+    3300158: basi kolonas025
+    3300160: basi kolonas026
+    3300162: basi kolonas027
+    3300164: basi kolonas028
+    3300166: basi kolonas029
+    3300168: basi kolonas030
+    3300170: basi kolonas031
+    3300172: basi kolonas032
+    3300174: basi kolonas033
+    3300176: basi kolonas034
+    3300178: basi kolonas035
+    3300180: botton004
+    3300182: botton005
+    3300184: botton006
+    3300186: botton007
+    3300188: botton008
+    3300190: botton009
+    3300192: botton010
+    3300194: botton011
+    3300196: botton012
+    3300198: botton013
+    3300200: botton014
+    3300202: botton015
+    3300204: botton016
+    3300206: botton017
+    3300208: botton018
+    3300210: botton019
+    3300212: botton020
+    3300214: botton021
+    3300216: botton022
+    3300218: botton023
+    3300220: Box001
+    3300222: Box002
+    3300224: Box003
+    3300226: Box004
+    3300228: button ring004
+    3300230: button ring005
+    3300232: button ring006
+    3300234: button ring007
+    3300236: button ring008
+    3300238: button ring009
+    3300240: button ring010
+    3300242: button ring011
+    3300244: button ring012
+    3300246: button ring013
+    3300248: button ring014
+    3300250: button ring015
+    3300252: button ring016
+    3300254: button ring017
+    3300256: button ring018
+    3300258: button ring019
+    3300260: button ring020
+    3300262: button ring021
+    3300264: button ring022
+    3300266: button ring023
+    3300268: ChamferBox005
+    3300270: ChamferBox006
+    3300272: ChamferBox007
+    3300274: ChamferBox008
+    3300276: ChamferBox009
+    3300278: ChamferBox010
+    3300280: ChamferBox011
+    3300282: ChamferBox012
+    3300284: ChamferBox013
+    3300286: ChamferBox014
+    3300288: ChamferBox015
+    3300290: ChamferBox016
+    3300292: ChamferBox017
+    3300294: ChamferBox018
+    3300296: ChamferBox019
+    3300298: ChamferBox020
+    3300300: ChamferBox021
+    3300302: ChamferBox022
+    3300304: ChamferBox023
+    3300306: ChamferBox024
+    3300308: ChamferBox025
+    3300310: ChamferBox026
+    3300312: Cylinder004
+    3300314: Cylinder005
+    3300316: Cylinder006
+    3300318: Cylinder007
+    3300320: Cylinder008
+    3300322: Cylinder009
+    3300324: Cylinder010
+    3300326: Cylinder011
+    3300328: Cylinder012
+    3300330: Cylinder013
+    3300332: Cylinder014
+    3300334: diakoptis orofis004
+    3300336: diakoptis orofis005
+    3300338: diakoptis orofis006
+    3300340: diakoptis orofis007
+    3300342: diakoptis orofis010
+    3300344: diakoptis orofis011
+    3300346: diakoptis orofis012
+    3300348: diakoptis orofis013
+    3300350: diakoptis orofis014
+    3300352: diakoptis orofis015
+    3300354: diakoptis orofis016
+    3300356: diakoptis orofis017
+    3300358: diakoptis orofis018
+    3300360: diakoptis orofis019
+    3300362: diakoptis orofis020
+    3300364: diakoptis orofis021
+    3300366: diakoptis orofis022
+    3300368: diakoptis orofis023
+    3300370: diakoptis orofis024
+    3300372: diakoptis orofis025
+    3300374: ixio
+    3300376: ixio001
+    3300378: ixio002
+    3300380: ixio003
+    3300382: ixio004
+    3300384: ixio005
+    3300386: kara para8iru002
+    3300388: kara para8iru003
+    3300390: kara para8iru004
+    3300392: kara para8iru005
+    3300394: kara para8iru006
+    3300396: kara para8iru007
+    3300398: kara para8iru008
+    3300400: kara para8iru009
+    3300402: kara para8iru010
+    3300404: kara para8iru011
+    3300406: karekla010
+    3300408: karekla011
+    3300410: karekla012
+    3300412: karekla013
+    3300414: karekla014
+    3300416: karekla015
+    3300418: karekla016
+    3300420: karekla017
+    3300422: karekla018
+    3300424: karekla019
+    3300426: karekla020
+    3300428: karekla021
+    3300430: karekla022
+    3300432: karekla023
+    3300434: karekla024
+    3300436: karekla025
+    3300438: karekla026
+    3300440: karekla027
+    3300442: karekla028
+    3300444: karekla029
+    3300446: karekla030
+    3300448: karekla031
+    3300450: karekla032
+    3300452: karekla033
+    3300454: karekla034
+    3300456: karekla035
+    3300458: karekla036
+    3300460: karekla037
+    3300462: karekla038
+    3300464: karekla039
+    3300466: karekla040
+    3300468: karekla041
+    3300470: karekla042
+    3300472: karekla043
+    3300474: karekla044
+    3300476: karekla045
+    3300478: karekla046
+    3300480: karekla047
+    3300482: karekla048
+    3300484: karekla049
+    3300486: karekla050
+    3300488: karekla051
+    3300490: karekla052
+    3300492: karekla053
+    3300494: karekla054
+    3300496: karekla055
+    3300498: karekla056
+    3300500: karekla057
+    3300502: karekla058
+    3300504: karekla059
+    3300506: kasa parauiru003
+    3300508: kasa parauiru004
+    3300510: kasa parauiru005
+    3300512: kasa parauiru006
+    3300514: kasa parauiru007
+    3300516: kasa parauiru008
+    3300518: kasa parauiru009
+    3300520: kasa parauiru010
+    3300522: kasa parauiru011
+    3300524: kasa parauiru012
+    3300526: kasa parauiru013
+    3300528: kasa parauiru014
+    3300530: kasa parauiru015
+    3300532: kasa parauiru016
+    3300534: kasa parauiru017
+    3300536: kasa parauiru018
+    3300538: kasa parauiru019
+    3300540: kasa parauiru020
+    3300542: kasa parauiru021
+    3300544: kasa parauiru022
+    3300546: kolona portas002
+    3300548: kolona portas003
+    3300550: kolona portas004
+    3300552: kolona portas005
+    3300554: kolona portas006
+    3300556: kolona portas007
+    3300558: kolona portas008
+    3300560: kolona portas009
+    3300562: kolona portas010
+    3300564: kolona portas011
+    3300566: kolona004
+    3300568: kolona007
+    3300570: kolona008
+    3300572: kolona009
+    3300574: kolona010
+    3300576: kolona012
+    3300578: kolona013
+    3300580: kolona014
+    3300582: kolona015
+    3300584: kolona016
+    3300586: kolona017
+    3300588: koudouni004
+    3300590: koudouni005
+    3300592: koudouni006
+    3300594: koudouni007
+    3300596: koudouni008
+    3300598: koudouni009
+    3300600: koudouni010
+    3300602: koudouni011
+    3300604: koudouni012
+    3300606: koudouni013
+    3300608: koudouni014
+    3300610: koudouni015
+    3300612: koudouni016
+    3300614: koudouni017
+    3300616: koudouni018
+    3300618: koudouni019
+    3300620: koudouni020
+    3300622: koudouni021
+    3300624: koudouni022
+    3300626: koudouni023
+    3300628: lampa
+    3300630: 'lampa '
+    3300632: lampa 001
+    3300634: lampa 002
+    3300636: lampa 003
+    3300638: lampa 004
+    3300640: lampa 005
+    3300642: lampa 006
+    3300644: lampa 007
+    3300646: lampa 008
+    3300648: lampa 009
+    3300650: lampa 010
+    3300652: lampa 011
+    3300654: lampa 012
+    3300656: lampa 013
+    3300658: lampa 014
+    3300660: lampa 015
+    3300662: lampa 016
+    3300664: lampa 017
+    3300666: lampa 018
+    3300668: lampa 019
+    3300670: lampa 020
+    3300672: lampa 021
+    3300674: lampa 022
+    3300676: lampa 023
+    3300678: lampa001
+    3300680: lampa002
+    3300682: lampa003
+    3300684: lampa004
+    3300686: lampa005
+    3300688: lampa006
+    3300690: lampa007
+    3300692: lampa008
+    3300694: lampa009
+    3300696: lampa010
+    3300698: lampa011
+    3300700: lastixo portas004
+    3300702: lastixo portas005
+    3300704: lastixo portas006
+    3300706: lastixo portas007
+    3300708: lastixo portas008
+    3300710: lastixo portas009
+    3300712: lastixo portas010
+    3300714: lastixo portas011
+    3300716: lastixo portas012
+    3300718: lastixo portas013
+    3300720: lastixo portas014
+    3300722: lastixo portas015
+    3300724: lastixo portas016
+    3300726: lastixo portas017
+    3300728: lastixo portas018
+    3300730: lastixo portas019
+    3300732: lastixo portas020
+    3300734: lastixo portas021
+    3300736: lastixo portas022
+    3300738: lastixo portas023
+    3300740: Object015
+    3300742: Object019
+    3300744: Object020
+    3300746: Object021
+    3300748: Object022
+    3300750: Object023
+    3300752: Object024
+    3300754: Object025
+    3300756: Object026
+    3300758: Object027
+    3300760: Object028
+    3300762: Object029
+    3300764: Object030
+    3300766: Object031
+    3300768: Object032
+    3300770: Object033
+    3300772: Object034
+    3300774: Object035
+    3300776: Object036
+    3300778: Object037
+    3300780: Object038
+    3300782: Object039
+    3300784: Object040
+    3300786: Object041
+    3300788: Object042
+    3300790: Object043
+    3300792: Object044
+    3300794: Object045
+    3300796: Object046
+    3300798: Object047
+    3300800: Object048
+    3300802: Object049
+    3300804: Object050
+    3300806: Object051
+    3300808: Object052
+    3300810: Object053
+    3300812: Object054
+    3300814: Object055
+    3300816: Object056
+    3300818: Object057
+    3300820: Object058
+    3300822: Object059
+    3300824: Object060
+    3300826: Object061
+    3300828: Object062
+    3300830: Object063
+    3300832: Object064
+    3300834: Object065
+    3300836: Object066
+    3300838: Object067
+    3300840: Object068
+    3300842: Object069
+    3300844: Object070
+    3300846: Object071
+    3300848: orofi
+    3300850: para8iro diafimisis004
+    3300852: para8iro diafimisis005
+    3300854: para8iro diafimisis006
+    3300856: para8iro diafimisis007
+    3300858: para8iro diafimisis008
+    3300860: para8iro diafimisis009
+    3300862: para8iro diafimisis010
+    3300864: para8iro diafimisis011
+    3300866: para8iro diafimisis012
+    3300868: para8iro diafimisis013
+    3300870: para8iro diafimisis014
+    3300872: para8iro diafimisis015
+    3300874: para8iro diafimisis016
+    3300876: para8iro diafimisis017
+    3300878: para8iro diafimisis018
+    3300880: para8iro diafimisis019
+    3300882: para8iro diafimisis020
+    3300884: para8iro diafimisis021
+    3300886: para8iro diafimisis022
+    3300888: para8iro diafimisis023
+    3300890: patos kareklas010
+    3300892: patos kareklas011
+    3300894: patos kareklas012
+    3300896: patos kareklas013
+    3300898: patos kareklas014
+    3300900: patos kareklas015
+    3300902: patos kareklas016
+    3300904: patos kareklas017
+    3300906: patos kareklas018
+    3300908: patos kareklas019
+    3300910: patos kareklas020
+    3300912: patos kareklas021
+    3300914: patos kareklas022
+    3300916: patos kareklas023
+    3300918: patos kareklas024
+    3300920: patos kareklas025
+    3300922: patos kareklas026
+    3300924: patos kareklas027
+    3300926: patos kareklas028
+    3300928: patos kareklas029
+    3300930: patos kareklas030
+    3300932: patos kareklas031
+    3300934: patos kareklas032
+    3300936: patos kareklas033
+    3300938: patos kareklas034
+    3300940: patos kareklas035
+    3300942: patos kareklas036
+    3300944: patos kareklas037
+    3300946: patos kareklas038
+    3300948: patos kareklas039
+    3300950: patos kareklas040
+    3300952: patos kareklas041
+    3300954: patos kareklas042
+    3300956: patos kareklas043
+    3300958: patos kareklas044
+    3300960: patos kareklas045
+    3300962: patos kareklas046
+    3300964: patos kareklas047
+    3300966: patos kareklas048
+    3300968: patos kareklas049
+    3300970: patos kareklas050
+    3300972: patos kareklas051
+    3300974: patos kareklas052
+    3300976: patos kareklas053
+    3300978: patos kareklas054
+    3300980: patos kareklas055
+    3300982: patos kareklas056
+    3300984: patos kareklas057
+    3300986: patos kareklas058
+    3300988: patos kareklas059
+    3300990: Plane003
+    3300992: Plane016
+    3300994: Plane017
+    3300996: Plane018
+    3300998: Plane019
+    3301000: Plane020
+    3301002: Plane021
+    3301004: Plane022
+    3301006: Plane023
+    3301008: Plane024
+    3301010: Plane025
+    3301012: Plane026
+    3301014: Plane027
+    3301016: porta004
+    3301018: porta005
+    3301020: porta006
+    3301022: porta007
+    3301024: porta008
+    3301026: porta009
+    3301028: porta010
+    3301030: porta011
+    3301032: porta012
+    3301034: porta013
+    3301036: porta014
+    3301038: porta015
+    3301040: porta016
+    3301042: porta017
+    3301044: porta018
+    3301046: porta019
+    3301048: porta020
+    3301050: porta021
+    3301052: porta022
+    3301054: porta023
+    3301056: rolo diakoptis para8iru003
+    3301058: rolo diakoptis para8iru004
+    3301060: rolo diakoptis para8iru005
+    3301062: rolo diakoptis para8iru006
+    3301064: rolo diakoptis para8iru007
+    3301066: rolo diakoptis para8iru008
+    3301068: rolo diakoptis para8iru009
+    3301070: rolo diakoptis para8iru010
+    3301072: rolo diakoptis para8iru011
+    3301074: rolo diakoptis para8iru012
+    3301076: rolo diakoptis para8iru013
+    3301078: rolo diakoptis para8iru014
+    3301080: rolo diakoptis para8iru015
+    3301082: rolo diakoptis para8iru016
+    3301084: rolo diakoptis para8iru017
+    3301086: rolo diakoptis para8iru018
+    3301088: rolo diakoptis para8iru019
+    3301090: rolo diakoptis para8iru020
+    3301092: rolo diakoptis para8iru021
+    3301094: rolo diakoptis para8iru022
+    3301096: Sphere007
+    3301098: Sphere008
+    3301100: Sphere009
+    3301102: Sphere010
+    3301104: Sphere011
+    3301106: Sphere012
+    3301108: Sphere013
+    3301110: Sphere014
+    3301112: Sphere015
+    3301114: Sphere016
+    3301116: Sphere017
+    3301118: Sphere018
+    3301120: Sphere019
+    3301122: Sphere020
+    3301124: Sphere021
+    3301126: Sphere022
+    3301128: Sphere023
+    3301130: Sphere024
+    3301132: Sphere025
+    3301134: Sphere026
+    3301136: Sphere027
+    3301138: Sphere028
+    3301140: Sphere029
+    3301142: Sphere030
+    3301144: Sphere031
+    3301146: Sphere032
+    3301148: Sphere033
+    3301150: Sphere034
+    3301152: Sphere035
+    3301154: Sphere036
+    3301156: Sphere037
+    3301158: steka portas007
+    3301160: steka portas008
+    3301162: steka portas009
+    3301164: steka portas010
+    3301166: steka portas011
+    3301168: steka portas012
+    3301170: steka portas013
+    3301172: steka portas014
+    3301174: steka portas015
+    3301176: steka portas016
+    3301178: steka portas017
+    3301180: steka portas018
+    3301182: steka portas019
+    3301184: steka portas020
+    3301186: steka portas021
+    3301188: steka portas022
+    3301190: steka portas023
+    3301192: steka portas024
+    3301194: steka portas025
+    3301196: steka portas026
+    3301198: steka portas027
+    3301200: steka portas028
+    3301202: steka portas029
+    3301204: steka portas030
+    3301206: steka portas031
+    3301208: steka portas032
+    3301210: steka portas033
+    3301212: steka portas034
+    3301214: steka portas035
+    3301216: steka portas036
+    3301218: tamplo004
+    3301220: tamplo005
+    3301222: tamplo006
+    3301224: tamplo007
+    3301226: tamplo008
+    3301228: tamplo010
+    3301230: tamplo011
+    3301232: tamplo012
+    3301234: tamplo013
+    3301236: tamplo014
+    3301238: tamplo015
+    3301240: tamplo016
+    3301242: tamplo017
+    3301244: tamplo018
+    3301246: tamplo019
+    3301248: tamplo020
+    3301250: tamplo021
+    3301252: tamplo022
+    3301254: tamplo023
+    3301256: tamplo024
+    3301258: tavani tap
+    3301260: tavani tap001
+    3301262: tavani tap002
+    3301264: tavani tap003
+    3301266: tavani tap004
+    3301268: tavani tap005
+    3301270: tazimi002
+    3301272: tazimi003
+    3301274: tazimi004
+    3301276: tazimi005
+    3301278: tazimi006
+    3301280: tazimi007
+    3301282: tazimi008
+    3301284: tazimi009
+    3301286: tazimi010
+    3301288: tazimi011
+    3301290: tzami diafimisis004
+    3301292: tzami diafimisis005
+    3301294: tzami diafimisis006
+    3301296: tzami diafimisis007
+    3301298: tzami diafimisis008
+    3301300: tzami diafimisis009
+    3301302: tzami diafimisis010
+    3301304: tzami diafimisis011
+    3301306: tzami diafimisis012
+    3301308: tzami diafimisis013
+    3301310: tzami diafimisis014
+    3301312: tzami diafimisis015
+    3301314: tzami diafimisis016
+    3301316: tzami diafimisis017
+    3301318: tzami diafimisis018
+    3301320: tzami diafimisis019
+    3301322: tzami diafimisis020
+    3301324: tzami diafimisis021
+    3301326: tzami diafimisis022
+    3301328: tzami diafimisis023
+    3301330: tzami portas lastixo004
+    3301332: tzami portas lastixo005
+    3301334: tzami portas lastixo006
+    3301336: tzami portas lastixo007
+    3301338: tzami portas lastixo008
+    3301340: tzami portas lastixo009
+    3301342: tzami portas lastixo010
+    3301344: tzami portas lastixo011
+    3301346: tzami portas lastixo012
+    3301348: tzami portas lastixo013
+    3301350: tzami portas lastixo014
+    3301352: tzami portas lastixo015
+    3301354: tzami portas lastixo016
+    3301356: tzami portas lastixo017
+    3301358: tzami portas lastixo018
+    3301360: tzami portas lastixo019
+    3301362: tzami portas lastixo020
+    3301364: tzami portas lastixo021
+    3301366: tzami portas lastixo022
+    3301368: tzami portas lastixo023
+    3301370: tzami portas004
+    3301372: tzami portas005
+    3301374: tzami portas006
+    3301376: tzami portas007
+    3301378: tzami portas008
+    3301380: tzami portas009
+    3301382: tzami portas010
+    3301384: tzami portas011
+    3301386: tzami portas012
+    3301388: tzami portas013
+    3301390: tzami portas014
+    3301392: tzami portas015
+    3301394: tzami portas016
+    3301396: tzami portas017
+    3301398: tzami portas018
+    3301400: tzami portas019
+    3301402: tzami portas020
+    3301404: tzami portas021
+    3301406: tzami portas022
+    3301408: tzami portas023
+    3301410: tzami tamplo004
+    3301412: tzami tamplo005
+    3301414: tzami tamplo006
+    3301416: tzami tamplo007
+    3301418: tzami tamplo008
+    3301420: tzami tamplo010
+    3301422: tzami tamplo011
+    3301424: tzami tamplo012
+    3301426: tzami tamplo013
+    3301428: tzami tamplo014
+    3301430: tzami tamplo015
+    3301432: tzami tamplo016
+    3301434: tzami tamplo017
+    3301436: tzami tamplo018
+    3301438: tzami tamplo019
+    3301440: tzami tamplo020
+    3301442: tzami tamplo021
+    3301444: tzami tamplo022
+    3301446: tzami tamplo023
+    3301448: tzami tamplo024
+    3301450: tzami002
+    3301452: tzami003
+    3301454: tzami004
+    3301456: tzami005
+    3301458: tzami006
+    3301460: tzami007
+    3301462: tzami008
+    3301464: tzami009
+    3301466: tzami010
+    3301468: tzami011
+    3301470: vida xerouliou
+    3301472: vida xerouliou001
+    3301474: vida xerouliou002
+    3301476: vida xerouliou003
+    3301478: vida xerouliou004
+    3301480: vida xerouliou005
+    3301482: vida xerouliou006
+    3301484: vida xerouliou007
+    3301486: vida xerouliou008
+    3301488: vida xerouliou009
+    3301490: vida xerouliou010
+    3301492: vida xerouliou011
+    3301494: vida xerouliou012
+    3301496: vida xerouliou013
+    3301498: vida xerouliou014
+    3301500: vida xerouliou015
+    3301502: vida xerouliou016
+    3301504: vida xerouliou017
+    3301506: vida xerouliou018
+    3301508: vides004
+    3301510: vides005
+    3301512: vides006
+    3301514: vides007
+    3301516: vides008
+    3301518: vides009
+    3301520: vides010
+    3301522: vides011
+    3301524: vides012
+    3301526: vides013
+    3301528: vides014
+    3301530: vides015
+    3301532: vides016
+    3301534: vides017
+    3301536: vides018
+    3301538: vides019
+    3301540: vides020
+    3301542: vides021
+    3301544: vides022
+    3301546: vides023
+    3301548: xarti diafimis004
+    3301550: xarti diafimis005
+    3301552: xarti diafimis006
+    3301554: xarti diafimis007
+    3301556: xarti diafimis008
+    3301558: xarti diafimis009
+    3301560: xarti diafimis010
+    3301562: xarti diafimis011
+    3301564: xarti diafimis012
+    3301566: xarti diafimis013
+    3301568: xarti diafimis014
+    3301570: xarti diafimis015
+    3301572: xarti diafimis016
+    3301574: xarti diafimis017
+    3301576: xarti diafimis018
+    3301578: xarti diafimis019
+    3301580: xarti diafimis020
+    3301582: xarti diafimis021
+    3301584: xarti diafimis022
+    3301586: xarti diafimis023
+    3301588: xarti tamplou004
+    3301590: xarti tamplou005
+    3301592: xarti tamplou006
+    3301594: xarti tamplou007
+    3301596: xarti tamplou008
+    3301598: xarti tamplou010
+    3301600: xarti tamplou011
+    3301602: xarti tamplou012
+    3301604: xarti tamplou013
+    3301606: xarti tamplou014
+    3301608: xarti tamplou015
+    3301610: xarti tamplou016
+    3301612: xarti tamplou017
+    3301614: xarti tamplou018
+    3301616: xarti tamplou019
+    3301618: xarti tamplou020
+    3301620: xarti tamplou021
+    3301622: xarti tamplou022
+    3301624: xarti tamplou023
+    3301626: xarti tamplou024
+    3301628: xerouli
+    3301630: xerouli001
+    3301632: xerouli002
+    3301634: xerouli003
+    3301636: xerouli004
+    3301638: xerouli005
+    3301640: xerouli006
+    3301642: xerouli007
+    3301644: xerouli008
+    3301646: xerouli009
+    3301648: xerouli010
+    3301650: xerouli011
+    3301652: xerouli012
+    3301654: xerouli013
+    3301656: xerouli014
+    3301658: xerouli015
+    3301660: xerouli016
+    3301662: xerouli017
+    3301664: xerouli018
+    3301666: xoristiko lampas
+    3301668: xoristiko lampas001
+    3301670: xoristiko lampas002
+    3301672: xoristiko lampas003
+    3301674: xoristiko lampas004
+    3301676: xoristiko lampas005
+    3301678: xoristiko lampas006
+    3301680: xoristiko lampas007
+    3301682: xoristiko lampas008
+    3301684: xoristiko lampas009
+    3301686: xoristiko lampas010
+    3301688: xoristiko lampas011
+    3301690: xoristiko lampas012
+    3301692: xoristiko lampas013
+    3301694: xoristiko lampas014
+    3301696: xoristiko lampas015
+    3301698: xoristiko lampas016
+    3301700: xoristiko lampas017
+    3301702: xoristiko lampas018
+    3301704: xoristiko lampas019
+    3301706: xoristiko lampas020
+    3301708: xoristiko lampas021
+    3301710: xoristiko lampas022
+    3301712: xoristiko lampas023
+    3301714: xoristiko lampas024
+    3301716: xoristiko lampas025
+    3301718: xoristiko lampas026
+    3301720: xoristiko lampas027
+    3301722: xoristiko lampas028
+    3301724: xoristiko lampas029
+    3301726: xoristiko lampas030
+    3301728: xoristiko lampas031
+    3301730: xoristiko lampas032
+    3301732: xoristiko lampas033
+    3301734: xoristiko lampas034
+    3301736: xoristiko lampas035
+    4300000: tavani tap
+    4300002: ixio
+    4300004: ixio001
+    4300006: tavani tap001
+    4300008: ixio002
+    4300010: tavani tap002
+    4300012: ixio003
+    4300014: tavani tap003
+    4300016: ixio004
+    4300018: tavani tap004
+    4300020: ixio005
+    4300022: tavani tap005
+    4300024: Box001
+    4300026: Object015
+    4300028: Box002
+    4300030: Object043
+    4300032: Box003
+    4300034: Object044
+    4300036: ChamferBox015
+    4300038: Cylinder009
+    4300040: ChamferBox016
+    4300042: Object047
+    4300044: Sphere022
+    4300046: Object046
+    4300048: Box004
+    4300050: Object045
+    4300052: kolona009
+    4300054: orofi
+    4300056: Plane003
+    4300058: diakoptis orofis016
+    4300060: diakoptis orofis017
+    4300062: lampa006
+    4300064: xoristiko lampas018
+    4300066: lampa 012
+    4300068: lampa 013
+    4300070: xoristiko lampas019
+    4300072: xoristiko lampas020
+    4300074: lampa007
+    4300076: xoristiko lampas021
+    4300078: lampa 014
+    4300080: lampa 015
+    4300082: xoristiko lampas022
+    4300084: xoristiko lampas023
+    4300086: diakoptis orofis018
+    4300088: tamplo015
+    4300090: Object048
+    4300092: xoristiko lampas024
+    4300094: lampa008
+    4300096: xoristiko lampas025
+    4300098: lampa 016
+    4300100: lampa 017
+    4300102: xoristiko lampas026
+    4300104: xoristiko lampas027
+    4300106: lampa 018
+    4300108: lampa 019
+    4300110: xoristiko lampas028
+    4300112: xoristiko lampas029
+    4300114: lampa009
+    4300116: xarti tamplou015
+    4300118: tzami tamplo015
+    4300120: Object049
+    4300122: Object050
+    4300124: Object051
+    4300126: basi kolonas021
+    4300128: xoristiko lampas030
+    4300130: bash kolonas007
+    4300132: Sphere023
+    4300134: Cylinder010
+    4300136: kolona portas007
+    4300138: karekla035
+    4300140: patos kareklas035
+    4300142: kara para8iru007
+    4300144: Object052
+    4300146: kasa parauiru013
+    4300148: tazimi007
+    4300150: kasa parauiru014
+    4300152: tzami007
+    4300154: rolo diakoptis para8iru013
+    4300156: rolo diakoptis para8iru014
+    4300158: para8iro diafimisis014
+    4300160: vides014
+    4300162: tzami diafimisis014
+    4300164: xarti diafimis014
+    4300166: vides015
+    4300168: tzami diafimisis015
+    4300170: xarti diafimis015
+    4300172: para8iro diafimisis015
+    4300174: tamplo016
+    4300176: tzami tamplo016
+    4300178: xarti tamplou016
+    4300180: diakoptis orofis019
+    4300182: tzami tamplo017
+    4300184: xarti tamplou017
+    4300186: diakoptis orofis020
+    4300188: tamplo017
+    4300190: Object053
+    4300192: Sphere024
+    4300194: Sphere025
+    4300196: steka portas022
+    4300198: steka portas023
+    4300200: steka portas024
+    4300202: basi kareklas035
+    4300204: patos kareklas036
+    4300206: basi kareklas036
+    4300208: karekla036
+    4300210: patos kareklas037
+    4300212: basi kareklas037
+    4300214: karekla037
+    4300216: patos kareklas038
+    4300218: basi kareklas038
+    4300220: karekla038
+    4300222: patos kareklas039
+    4300224: basi kareklas039
+    4300226: karekla039
+    4300228: tzami portas lastixo014
+    4300230: porta014
+    4300232: lastixo portas014
+    4300234: tzami portas014
+    4300236: tzami portas lastixo015
+    4300238: porta015
+    4300240: lastixo portas015
+    4300242: tzami portas015
+    4300244: koudouni014
+    4300246: button ring014
+    4300248: Plane022
+    4300250: kolona013
+    4300252: button ring015
+    4300254: koudouni015
+    4300256: Cylinder011
+    4300258: Sphere026
+    4300260: bash kolonas008
+    4300262: basi kolonas022
+    4300264: ChamferBox017
+    4300266: botton014
+    4300268: Object054
+    4300270: koudouni016
+    4300272: botton015
+    4300274: Object055
+    4300276: ChamferBox018
+    4300278: Object056
+    4300280: botton016
+    4300282: ChamferBox019
+    4300284: tamplo018
+    4300286: Plane023
+    4300288: kolona portas008
+    4300290: karekla040
+    4300292: patos kareklas040
+    4300294: kara para8iru008
+    4300296: Object057
+    4300298: kasa parauiru015
+    4300300: tazimi008
+    4300302: kasa parauiru016
+    4300304: tzami008
+    4300306: rolo diakoptis para8iru015
+    4300308: rolo diakoptis para8iru016
+    4300310: para8iro diafimisis016
+    4300312: vides016
+    4300314: tzami diafimisis016
+    4300316: xarti diafimis016
+    4300318: vides017
+    4300320: tzami diafimisis017
+    4300322: xarti diafimis017
+    4300324: para8iro diafimisis017
+    4300326: tzami tamplo018
+    4300328: xarti tamplou018
+    4300330: diakoptis orofis021
+    4300332: tzami tamplo019
+    4300334: xarti tamplou019
+    4300336: diakoptis orofis022
+    4300338: tamplo019
+    4300340: Object058
+    4300342: Sphere027
+    4300344: Sphere028
+    4300346: steka portas025
+    4300348: steka portas026
+    4300350: steka portas027
+    4300352: basi kareklas040
+    4300354: patos kareklas041
+    4300356: basi kareklas041
+    4300358: karekla041
+    4300360: patos kareklas042
+    4300362: basi kareklas042
+    4300364: karekla042
+    4300366: patos kareklas043
+    4300368: basi kareklas043
+    4300370: karekla043
+    4300372: patos kareklas044
+    4300374: basi kareklas044
+    4300376: karekla044
+    4300378: tzami portas lastixo016
+    4300380: porta016
+    4300382: lastixo portas016
+    4300384: tzami portas016
+    4300386: tzami portas lastixo017
+    4300388: porta017
+    4300390: lastixo portas017
+    4300392: tzami portas017
+    4300394: koudouni017
+    4300396: button ring016
+    4300398: kolona014
+    4300400: botton017
+    4300402: Object059
+    4300404: ChamferBox020
+    4300406: button ring017
+    4300408: koudouni018
+    4300410: Object060
+    4300412: botton018
+    4300414: ChamferBox021
+    4300416: Cylinder012
+    4300418: Sphere029
+    4300420: bash kolonas009
+    4300422: basi kolonas023
+    4300424: button ring018
+    4300426: kolona portas009
+    4300428: karekla045
+    4300430: patos kareklas045
+    4300432: kara para8iru009
+    4300434: Object062
+    4300436: kasa parauiru017
+    4300438: tazimi009
+    4300440: kasa parauiru018
+    4300442: tzami009
+    4300444: rolo diakoptis para8iru017
+    4300446: rolo diakoptis para8iru018
+    4300448: para8iro diafimisis018
+    4300450: vides018
+    4300452: tzami diafimisis018
+    4300454: xarti diafimis018
+    4300456: vides019
+    4300458: tzami diafimisis019
+    4300460: xarti diafimis019
+    4300462: para8iro diafimisis019
+    4300464: tamplo020
+    4300466: tzami tamplo020
+    4300468: xarti tamplou020
+    4300470: tzami tamplo021
+    4300472: xarti tamplou021
+    4300474: diakoptis orofis023
+    4300476: tamplo021
+    4300478: Object063
+    4300480: Sphere030
+    4300482: Sphere031
+    4300484: steka portas028
+    4300486: steka portas029
+    4300488: steka portas030
+    4300490: basi kareklas045
+    4300492: patos kareklas046
+    4300494: basi kareklas046
+    4300496: karekla046
+    4300498: patos kareklas047
+    4300500: basi kareklas047
+    4300502: karekla047
+    4300504: patos kareklas048
+    4300506: basi kareklas048
+    4300508: karekla048
+    4300510: patos kareklas049
+    4300512: basi kareklas049
+    4300514: karekla049
+    4300516: tzami portas lastixo018
+    4300518: porta018
+    4300520: lastixo portas018
+    4300522: tzami portas018
+    4300524: tzami portas lastixo019
+    4300526: porta019
+    4300528: lastixo portas019
+    4300530: tzami portas019
+    4300532: koudouni019
+    4300534: button ring019
+    4300536: Plane024
+    4300538: kolona015
+    4300540: botton020
+    4300542: Object064
+    4300544: ChamferBox023
+    4300546: button ring020
+    4300548: koudouni020
+    4300550: Object065
+    4300552: botton021
+    4300554: ChamferBox024
+    4300556: Cylinder013
+    4300558: Sphere032
+    4300560: bash kolonas010
+    4300562: basi kolonas024
+    4300564: ChamferBox022
+    4300566: Object061
+    4300568: botton019
+    4300570: kolona016
+    4300572: Plane025
+    4300574: kolona portas010
+    4300576: karekla050
+    4300578: patos kareklas050
+    4300580: kara para8iru010
+    4300582: Object066
+    4300584: kasa parauiru019
+    4300586: tazimi010
+    4300588: kasa parauiru020
+    4300590: tzami010
+    4300592: rolo diakoptis para8iru019
+    4300594: rolo diakoptis para8iru020
+    4300596: para8iro diafimisis020
+    4300598: vides020
+    4300600: tzami diafimisis020
+    4300602: xarti diafimis020
+    4300604: vides021
+    4300606: tzami diafimisis021
+    4300608: xarti diafimis021
+    4300610: para8iro diafimisis021
+    4300612: tamplo022
+    4300614: tzami tamplo022
+    4300616: xarti tamplou022
+    4300618: Object067
+    4300620: Sphere033
+    4300622: Sphere034
+    4300624: steka portas031
+    4300626: steka portas032
+    4300628: steka portas033
+    4300630: basi kareklas050
+    4300632: patos kareklas051
+    4300634: basi kareklas051
+    4300636: karekla051
+    4300638: patos kareklas052
+    4300640: basi kareklas052
+    4300642: karekla052
+    4300644: patos kareklas053
+    4300646: basi kareklas053
+    4300648: karekla053
+    4300650: patos kareklas054
+    4300652: basi kareklas054
+    4300654: karekla054
+    4300656: tzami portas lastixo020
+    4300658: porta020
+    4300660: lastixo portas020
+    4300662: tzami portas020
+    4300664: tzami portas lastixo021
+    4300666: porta021
+    4300668: lastixo portas021
+    4300670: tzami portas021
+    4300672: koudouni021
+    4300674: button ring021
+    4300676: kolona017
+    4300678: botton022
+    4300680: Object068
+    4300682: ChamferBox025
+    4300684: button ring022
+    4300686: koudouni022
+    4300688: Object069
+    4300690: botton023
+    4300692: ChamferBox026
+    4300694: Cylinder014
+    4300696: Sphere035
+    4300698: bash kolonas011
+    4300700: basi kolonas025
+    4300702: basi kolonas026
+    4300704: basi kolonas027
+    4300706: button ring023
+    4300708: Plane026
+    4300710: kolona portas011
+    4300712: karekla055
+    4300714: patos kareklas055
+    4300716: kara para8iru011
+    4300718: Object070
+    4300720: kasa parauiru021
+    4300722: tazimi011
+    4300724: kasa parauiru022
+    4300726: tzami011
+    4300728: rolo diakoptis para8iru021
+    4300730: rolo diakoptis para8iru022
+    4300732: para8iro diafimisis022
+    4300734: vides022
+    4300736: tzami diafimisis022
+    4300738: xarti diafimis022
+    4300740: vides023
+    4300742: tzami diafimisis023
+    4300744: xarti diafimis023
+    4300746: para8iro diafimisis023
+    4300748: tamplo023
+    4300750: tzami tamplo023
+    4300752: xarti tamplou023
+    4300754: diakoptis orofis024
+    4300756: tzami tamplo024
+    4300758: xarti tamplou024
+    4300760: diakoptis orofis025
+    4300762: tamplo024
+    4300764: Object071
+    4300766: Sphere036
+    4300768: Sphere037
+    4300770: steka portas034
+    4300772: steka portas035
+    4300774: steka portas036
+    4300776: basi kareklas055
+    4300778: patos kareklas056
+    4300780: basi kareklas056
+    4300782: karekla056
+    4300784: patos kareklas057
+    4300786: basi kareklas057
+    4300788: karekla057
+    4300790: patos kareklas058
+    4300792: basi kareklas058
+    4300794: karekla058
+    4300796: patos kareklas059
+    4300798: basi kareklas059
+    4300800: karekla059
+    4300802: tzami portas lastixo022
+    4300804: porta022
+    4300806: lastixo portas022
+    4300808: tzami portas022
+    4300810: tzami portas lastixo023
+    4300812: porta023
+    4300814: lastixo portas023
+    4300816: tzami portas023
+    4300818: koudouni023
+    4300820: Plane027
+    4300822: basi kolonas028
+    4300824: basi kolonas029
+    4300826: basi kolonas030
+    4300828: basi kolonas031
+    4300830: basi kolonas032
+    4300832: basi kolonas033
+    4300834: lampa010
+    4300836: xoristiko lampas031
+    4300838: xoristiko lampas032
+    4300840: lampa 020
+    4300842: lampa 021
+    4300844: xoristiko lampas033
+    4300846: basi kolonas034
+    4300848: basi kolonas035
+    4300850: lampa 022
+    4300852: lampa 023
+    4300854: xoristiko lampas034
+    4300856: lampa011
+    4300858: xoristiko lampas035
+    4300860: diakoptis orofis004
+    4300862: diakoptis orofis015
+    4300864: lampa
+    4300866: xoristiko lampas
+    4300868: 'lampa '
+    4300870: lampa 001
+    4300872: xoristiko lampas001
+    4300874: xoristiko lampas002
+    4300876: lampa001
+    4300878: xoristiko lampas003
+    4300880: lampa 002
+    4300882: lampa 003
+    4300884: xoristiko lampas004
+    4300886: xoristiko lampas005
+    4300888: diakoptis orofis014
+    4300890: tamplo014
+    4300892: Object042
+    4300894: xoristiko lampas006
+    4300896: lampa002
+    4300898: xoristiko lampas007
+    4300900: lampa 004
+    4300902: lampa 005
+    4300904: xoristiko lampas008
+    4300906: xoristiko lampas009
+    4300908: lampa 006
+    4300910: lampa 007
+    4300912: xoristiko lampas010
+    4300914: xoristiko lampas011
+    4300916: lampa003
+    4300918: xarti tamplou014
+    4300920: tzami tamplo014
+    4300922: Object041
+    4300924: Object040
+    4300926: Object039
+    4300928: basi kolonas015
+    4300930: xoristiko lampas015
+    4300932: bash kolonas005
+    4300934: Sphere018
+    4300936: Cylinder007
+    4300938: kolona portas003
+    4300940: karekla015
+    4300942: patos kareklas015
+    4300944: kara para8iru003
+    4300946: Object023
+    4300948: kasa parauiru005
+    4300950: tazimi003
+    4300952: kasa parauiru006
+    4300954: tzami003
+    4300956: rolo diakoptis para8iru005
+    4300958: rolo diakoptis para8iru006
+    4300960: para8iro diafimisis006
+    4300962: vides006
+    4300964: tzami diafimisis006
+    4300966: xarti diafimis006
+    4300968: vides007
+    4300970: tzami diafimisis007
+    4300972: xarti diafimis007
+    4300974: para8iro diafimisis007
+    4300976: tamplo006
+    4300978: tzami tamplo006
+    4300980: xarti tamplou006
+    4300982: diakoptis orofis006
+    4300984: tzami tamplo007
+    4300986: xarti tamplou007
+    4300988: diakoptis orofis007
+    4300990: tamplo007
+    4300992: Object024
+    4300994: Sphere010
+    4300996: Sphere011
+    4300998: steka portas010
+    4301000: steka portas011
+    4301002: steka portas012
+    4301004: basi kareklas015
+    4301006: patos kareklas016
+    4301008: basi kareklas016
+    4301010: karekla016
+    4301012: patos kareklas017
+    4301014: basi kareklas017
+    4301016: karekla017
+    4301018: patos kareklas018
+    4301020: basi kareklas018
+    4301022: karekla018
+    4301024: patos kareklas019
+    4301026: basi kareklas019
+    4301028: karekla019
+    4301030: tzami portas lastixo006
+    4301032: porta006
+    4301034: lastixo portas006
+    4301036: tzami portas006
+    4301038: tzami portas lastixo007
+    4301040: porta007
+    4301042: lastixo portas007
+    4301044: tzami portas007
+    4301046: koudouni006
+    4301048: button ring006
+    4301050: Plane017
+    4301052: kolona007
+    4301054: button ring007
+    4301056: koudouni007
+    4301058: Cylinder005
+    4301060: Sphere012
+    4301062: bash kolonas003
+    4301064: basi kolonas009
+    4301066: Object034
+    4301068: botton011
+    4301070: ChamferBox012
+    4301072: koudouni011
+    4301074: botton006
+    4301076: Object025
+    4301078: ChamferBox007
+    4301080: Object026
+    4301082: botton007
+    4301084: ChamferBox008
+    4301086: tamplo012
+    4301088: Plane020
+    4301090: kolona portas006
+    4301092: karekla030
+    4301094: patos kareklas030
+    4301096: kara para8iru006
+    4301098: Object035
+    4301100: kasa parauiru011
+    4301102: tazimi006
+    4301104: kasa parauiru012
+    4301106: tzami006
+    4301108: rolo diakoptis para8iru011
+    4301110: rolo diakoptis para8iru012
+    4301112: para8iro diafimisis012
+    4301114: vides012
+    4301116: tzami diafimisis012
+    4301118: xarti diafimis012
+    4301120: vides013
+    4301122: tzami diafimisis013
+    4301124: xarti diafimis013
+    4301126: para8iro diafimisis013
+    4301128: tzami tamplo012
+    4301130: xarti tamplou012
+    4301132: diakoptis orofis012
+    4301134: tzami tamplo013
+    4301136: xarti tamplou013
+    4301138: diakoptis orofis013
+    4301140: tamplo013
+    4301142: Object036
+    4301144: Sphere019
+    4301146: Sphere020
+    4301148: steka portas019
+    4301150: steka portas020
+    4301152: steka portas021
+    4301154: basi kareklas030
+    4301156: patos kareklas031
+    4301158: basi kareklas031
+    4301160: karekla031
+    4301162: patos kareklas032
+    4301164: basi kareklas032
+    4301166: karekla032
+    4301168: patos kareklas033
+    4301170: basi kareklas033
+    4301172: karekla033
+    4301174: patos kareklas034
+    4301176: basi kareklas034
+    4301178: karekla034
+    4301180: tzami portas lastixo012
+    4301182: porta012
+    4301184: lastixo portas012
+    4301186: tzami portas012
+    4301188: tzami portas lastixo013
+    4301190: porta013
+    4301192: lastixo portas013
+    4301194: tzami portas013
+    4301196: koudouni012
+    4301198: button ring012
+    4301200: kolona012
+    4301202: botton012
+    4301204: Object037
+    4301206: ChamferBox013
+    4301208: button ring013
+    4301210: koudouni013
+    4301212: Object038
+    4301214: botton013
+    4301216: ChamferBox014
+    4301218: Cylinder008
+    4301220: Sphere021
+    4301222: bash kolonas006
+    4301224: basi kolonas018
+    4301226: button ring011
+    4301228: kolona portas002
+    4301230: karekla010
+    4301232: patos kareklas010
+    4301234: kara para8iru002
+    4301236: Object019
+    4301238: kasa parauiru003
+    4301240: tazimi002
+    4301242: kasa parauiru004
+    4301244: tzami002
+    4301246: rolo diakoptis para8iru003
+    4301248: rolo diakoptis para8iru004
+    4301250: para8iro diafimisis004
+    4301252: vides004
+    4301254: tzami diafimisis004
+    4301256: xarti diafimis004
+    4301258: vides005
+    4301260: tzami diafimisis005
+    4301262: xarti diafimis005
+    4301264: para8iro diafimisis005
+    4301266: tamplo004
+    4301268: tzami tamplo004
+    4301270: xarti tamplou004
+    4301272: tzami tamplo005
+    4301274: xarti tamplou005
+    4301276: diakoptis orofis005
+    4301278: tamplo005
+    4301280: Object020
+    4301282: Sphere007
+    4301284: Sphere008
+    4301286: steka portas007
+    4301288: steka portas008
+    4301290: steka portas009
+    4301292: basi kareklas010
+    4301294: patos kareklas011
+    4301296: basi kareklas011
+    4301298: karekla011
+    4301300: patos kareklas012
+    4301302: basi kareklas012
+    4301304: karekla012
+    4301306: patos kareklas013
+    4301308: basi kareklas013
+    4301310: karekla013
+    4301312: patos kareklas014
+    4301314: basi kareklas014
+    4301316: karekla014
+    4301318: tzami portas lastixo004
+    4301320: porta004
+    4301322: lastixo portas004
+    4301324: tzami portas004
+    4301326: tzami portas lastixo005
+    4301328: porta005
+    4301330: lastixo portas005
+    4301332: tzami portas005
+    4301334: koudouni004
+    4301336: button ring004
+    4301338: Plane016
+    4301340: kolona004
+    4301342: botton004
+    4301344: Object021
+    4301346: ChamferBox005
+    4301348: button ring005
+    4301350: koudouni005
+    4301352: Object022
+    4301354: botton005
+    4301356: ChamferBox006
+    4301358: Cylinder004
+    4301360: Sphere009
+    4301362: bash kolonas002
+    4301364: basi kolonas006
+    4301366: botton010
+    4301368: Object033
+    4301370: ChamferBox011
+    4301372: kolona010
+    4301374: Plane018
+    4301376: kolona portas004
+    4301378: karekla020
+    4301380: patos kareklas020
+    4301382: kara para8iru004
+    4301384: Object027
+    4301386: kasa parauiru007
+    4301388: tazimi004
+    4301390: kasa parauiru008
+    4301392: tzami004
+    4301394: rolo diakoptis para8iru007
+    4301396: rolo diakoptis para8iru008
+    4301398: para8iro diafimisis008
+    4301400: vides008
+    4301402: tzami diafimisis008
+    4301404: xarti diafimis008
+    4301406: vides009
+    4301408: tzami diafimisis009
+    4301410: xarti diafimis009
+    4301412: para8iro diafimisis009
+    4301414: tamplo008
+    4301416: tzami tamplo008
+    4301418: xarti tamplou008
+    4301420: Object028
+    4301422: Sphere013
+    4301424: Sphere014
+    4301426: steka portas013
+    4301428: steka portas014
+    4301430: steka portas015
+    4301432: basi kareklas020
+    4301434: patos kareklas021
+    4301436: basi kareklas021
+    4301438: karekla021
+    4301440: patos kareklas022
+    4301442: basi kareklas022
+    4301444: karekla022
+    4301446: patos kareklas023
+    4301448: basi kareklas023
+    4301450: karekla023
+    4301452: patos kareklas024
+    4301454: basi kareklas024
+    4301456: karekla024
+    4301458: tzami portas lastixo008
+    4301460: porta008
+    4301462: lastixo portas008
+    4301464: tzami portas008
+    4301466: tzami portas lastixo009
+    4301468: porta009
+    4301470: lastixo portas009
+    4301472: tzami portas009
+    4301474: koudouni008
+    4301476: button ring008
+    4301478: kolona008
+    4301480: botton008
+    4301482: Object029
+    4301484: ChamferBox009
+    4301486: button ring009
+    4301488: koudouni009
+    4301490: Object030
+    4301492: botton009
+    4301494: ChamferBox010
+    4301496: Cylinder006
+    4301498: Sphere015
+    4301500: bash kolonas004
+    4301502: basi kolonas012
+    4301504: basi kolonas013
+    4301506: basi kolonas014
+    4301508: button ring010
+    4301510: Plane019
+    4301512: kolona portas005
+    4301514: karekla025
+    4301516: patos kareklas025
+    4301518: kara para8iru005
+    4301520: Object031
+    4301522: kasa parauiru009
+    4301524: tazimi005
+    4301526: kasa parauiru010
+    4301528: tzami005
+    4301530: rolo diakoptis para8iru009
+    4301532: rolo diakoptis para8iru010
+    4301534: para8iro diafimisis010
+    4301536: vides010
+    4301538: tzami diafimisis010
+    4301540: xarti diafimis010
+    4301542: vides011
+    4301544: tzami diafimisis011
+    4301546: xarti diafimis011
+    4301548: para8iro diafimisis011
+    4301550: tamplo010
+    4301552: tzami tamplo010
+    4301554: xarti tamplou010
+    4301556: diakoptis orofis010
+    4301558: tzami tamplo011
+    4301560: xarti tamplou011
+    4301562: diakoptis orofis011
+    4301564: tamplo011
+    4301566: Object032
+    4301568: Sphere016
+    4301570: Sphere017
+    4301572: steka portas016
+    4301574: steka portas017
+    4301576: steka portas018
+    4301578: basi kareklas025
+    4301580: patos kareklas026
+    4301582: basi kareklas026
+    4301584: karekla026
+    4301586: patos kareklas027
+    4301588: basi kareklas027
+    4301590: karekla027
+    4301592: patos kareklas028
+    4301594: basi kareklas028
+    4301596: karekla028
+    4301598: patos kareklas029
+    4301600: basi kareklas029
+    4301602: karekla029
+    4301604: tzami portas lastixo010
+    4301606: porta010
+    4301608: lastixo portas010
+    4301610: tzami portas010
+    4301612: tzami portas lastixo011
+    4301614: porta011
+    4301616: lastixo portas011
+    4301618: tzami portas011
+    4301620: koudouni010
+    4301622: Plane021
+    4301624: basi kolonas008
+    4301626: basi kolonas007
+    4301628: basi kolonas020
+    4301630: basi kolonas019
+    4301632: basi kolonas011
+    4301634: basi kolonas010
+    4301636: lampa005
+    4301638: xoristiko lampas017
+    4301640: xoristiko lampas016
+    4301642: lampa 011
+    4301644: lampa 010
+    4301646: xoristiko lampas014
+    4301648: basi kolonas016
+    4301650: basi kolonas017
+    4301652: lampa 009
+    4301654: lampa 008
+    4301656: xoristiko lampas013
+    4301658: lampa004
+    4301660: xoristiko lampas012
+    4301662: xerouli
+    4301664: vida xerouliou
+    4301666: xerouli001
+    4301668: vida xerouliou001
+    4301670: xerouli002
+    4301672: vida xerouliou002
+    4301674: xerouli003
+    4301676: vida xerouliou003
+    4301678: xerouli004
+    4301680: vida xerouliou004
+    4301682: xerouli005
+    4301684: vida xerouliou005
+    4301686: xerouli006
+    4301688: vida xerouliou006
+    4301690: xerouli007
+    4301692: vida xerouliou007
+    4301694: xerouli008
+    4301696: vida xerouliou008
+    4301698: xerouli009
+    4301700: vida xerouliou009
+    4301702: xerouli010
+    4301704: vida xerouliou010
+    4301706: xerouli011
+    4301708: vida xerouliou011
+    4301710: xerouli012
+    4301712: vida xerouliou012
+    4301714: xerouli013
+    4301716: vida xerouliou013
+    4301718: xerouli014
+    4301720: vida xerouliou014
+    4301722: xerouli015
+    4301724: vida xerouliou015
+    4301726: xerouli016
+    4301728: vida xerouliou016
+    4301730: xerouli017
+    4301732: vida xerouliou017
+    4301734: xerouli018
+    4301736: vida xerouliou018
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
