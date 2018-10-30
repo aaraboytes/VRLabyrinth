@@ -5,6 +5,7 @@ using UnityEngine;
 public class PortalPass : MonoBehaviour {
     public Transform player;
     public Transform receiver;
+    public bool rotatePlayer = false;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -17,7 +18,8 @@ public class PortalPass : MonoBehaviour {
             if (dotProduct < 0.2f)
             {
                 float rotationDiff = -Quaternion.Angle(transform.rotation, receiver.rotation);
-                rotationDiff += 180f;
+                if(rotatePlayer)
+                    rotationDiff += 180f;
                 player.Rotate(Vector3.up, rotationDiff);
 
                 Vector3 positionOffset = Quaternion.Euler(0f, rotationDiff, 0f) * portalToPlayer;

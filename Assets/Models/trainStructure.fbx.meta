@@ -10,6 +10,7 @@ ModelImporter:
     100008: Lamp
     100010: //RootNode
     100012: Cube.003
+    100014: Cube.004
     400000: Camera
     400002: Cube
     400004: Cube.001
@@ -17,6 +18,7 @@ ModelImporter:
     400008: Lamp
     400010: //RootNode
     400012: Cube.003
+    400014: Cube.004
     2000000: Camera
     2100000: Material.001
     2100002: Material
@@ -24,14 +26,17 @@ ModelImporter:
     2300002: Cube.001
     2300004: Cube.002
     2300006: Cube.003
+    2300008: Cube.004
     3300000: Cube
     3300002: Cube.001
     3300004: Cube.002
     3300006: Cube.003
+    3300008: Cube.004
     4300000: Cube.002
     4300002: Cube.001
     4300004: Cube
     4300006: Cube.003
+    4300008: Cube.004
     10800000: Lamp
   externalObjects: {}
   materials:

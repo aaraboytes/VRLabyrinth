@@ -3,16 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour {
-    public float speed,maxSpeed,jumpForce;
+    public float speed, maxSpeed, jumpForce;
 
-    //Rigidbody rb;
     CharacterController player;
     Vector3 move = Vector3.zero;
     [SerializeField]
     bool running = false;
+    
     private void Start()
     {
-       //rb = GetComponent<Rigidbody>();
         player = GetComponent<CharacterController>();
     }
     void Update () {

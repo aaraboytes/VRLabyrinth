@@ -6,7 +6,7 @@ public class FollowPlayer : MonoBehaviour {
     public Transform portalA, portalB;
     public Transform player,playerLook;
 	void Update () {
-        Vector3 playerOffset = player.position - portalB.position;
+        Vector3 playerOffset = playerLook.position - portalB.position;
         transform.position = portalA.position + playerOffset;
         float angDifPorts = Quaternion.Angle(portalB.rotation, portalA.rotation);
 
