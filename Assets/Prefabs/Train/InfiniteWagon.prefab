@@ -1340,6 +1340,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   receiver: {fileID: 4900679833364378}
+  rotatePlayer: 1
 --- !u!114 &114241331282500960
 MonoBehaviour:
   m_ObjectHideFlags: 1

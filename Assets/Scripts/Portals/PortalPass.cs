@@ -5,7 +5,7 @@ using UnityEngine;
 public class PortalPass : MonoBehaviour {
     public Transform player;
     public Transform receiver;
-    public bool rotatePlayer = false;
+    public bool rotatePlayer = true;
 
     private void OnTriggerEnter(Collider other)
     {
